@@ -80,7 +80,14 @@ if((isset($_GET["id"]) || (isset($_GET["name"])) && $_GET["type"] && $_GET["lang
 				if(count($matches) > 0){
 					$duration = $matches[1];
 				}
-				$result->Duration = intval($duration);				
+				$result->Duration = intval($duration);	
+				$charges_regex = "/Maximum Charges: <\/span>(\d+)/";
+				$charges = 0;
+				preg_match($charges_regex, $result->Description, $matches);
+				if(count($matches) > 0){
+					$charges = $matches[1];
+				}
+				$result->Charges = intval($charges);	
 			}
 			header("Content-Type: application/json");
 			echo json_encode($results);
