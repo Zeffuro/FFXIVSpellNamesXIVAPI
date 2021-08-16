@@ -1,0 +1,7 @@
+﻿Write-Host "Downloading CN Action and Status.csv to cn folder"
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/thewakingsands/ffxiv-datamining-cn/master/Action.csv" -OutFile "cn\Action.csv"
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/thewakingsands/ffxiv-datamining-cn/master/Status.csv" -OutFile "cn\Status.csv"
+Write-Host "Downloading KR Action and Status.csv to kr folder"
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/Ra-Workspace/ffxiv-datamining-ko/master/csv/Action.csv" -OutFile "kr\Action.csv"
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/Ra-Workspace/ffxiv-datamining-ko/master/csv/Status.csv" -OutFile "kr\Status.csv"
+Read-Host "Done downloading latest versions, press Enter to exit"
