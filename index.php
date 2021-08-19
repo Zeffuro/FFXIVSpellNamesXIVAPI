@@ -64,7 +64,9 @@ if((isset($_GET["id"]) || (isset($_GET["name"])) && $_GET["type"] && $_GET["lang
 			$found_id_string = implode(",", $found_id_array);
 			if($lang != "cn" && $lang != "kr"){
 				$xivapi = "https://xivapi.com/search?string={$name}&indexes={$type}&Columns=ID,Icon,Name,Name_en,Name_de,Name_fr,Name_ja,UrlType,Recast100ms,ClassJob.Abbreviation,ClassJobLevel,IsPvP,IsPlayerAction,Description";
-			}else{
+			}else if($lang == "cn"){
+				$xivapi = "https://cafemaker.wakingsands.com/{$type}?ids={$found_id_string}&Columns=ID,Icon,Name,Name_en,Name_de,Name_fr,Name_ja,Recast100ms,ClassJob.Abbreviation,ClassJobLevel,IsPvP,IsPlayerAction,Description";
+			}else {
 				$xivapi = "https://xivapi.com/{$type}?ids={$found_id_string}&Columns=ID,Icon,Name,Name_en,Name_de,Name_fr,Name_ja,Recast100ms,ClassJob.Abbreviation,ClassJobLevel,IsPvP,IsPlayerAction,Description";
 			}
 			$xivapi_data = json_decode(file_get_contents($xivapi));
@@ -74,14 +76,14 @@ if((isset($_GET["id"]) || (isset($_GET["name"])) && $_GET["type"] && $_GET["lang
 				$result->Name_cn = $cn[$result->ID]["Name"];
 				$result->Name_kr = $kr[$result->ID]["Name"];
 				$result->Cooldown = $result->Recast100ms / 10;
-				$duration_regex = "/Duration:<\/span> (\d+)s/";
+				$duration_regex = "/(?:Duration:|持续时间：)<\/span>(?: )?(\d+)(?:s|秒)/";
 				$duration = 0;
 				preg_match($duration_regex, $result->Description, $matches);
 				if(count($matches) > 0){
 					$duration = $matches[1];
 				}
 				$result->Duration = intval($duration);	
-				$charges_regex = "/Maximum Charges: <\/span>(\d+)/";
+				$charges_regex = "/(?:Maximum Charges: |积蓄次数：)<\/span>(?: )?(\d+)/";
 				$charges = 0;
 				preg_match($charges_regex, $result->Description, $matches);
 				if(count($matches) > 0){
