@@ -60,16 +60,45 @@ if((isset($_GET["id"]) || (isset($_GET["name"])) && $_GET["type"] && $_GET["lang
 				return (stripos($spell["Name"], $name) !== false);
 			});
 			$found_id_array = array_merge(array_keys($found_cn), array_keys($found_kr));
-			//print_r(json_encode($found_id_array));
+
 			$found_id_string = implode(",", $found_id_array);
-			if($lang != "cn" && $lang != "kr"){
+			$usedsl = false;
+			$context = null;
+			if($lang == "en"){
 				$xivapi = "https://xivapi.com/search?string={$name}&indexes={$type}&Columns=ID,Icon,Name,Name_en,Name_de,Name_fr,Name_ja,UrlType,Recast100ms,ClassJob.Abbreviation,ClassJobLevel,IsPvP,IsPlayerAction,Description";
+			}else if($lang != "cn" && $lang != "kr"){
+				if($lang == "jp"){
+					$lang = "ja";
+				}
+				$xivapi = "https://xivapi.com/search?string={$name}&indexes={$type}&Columns=ID,Icon,Name,Name_en,Name_de,Name_fr,Name_ja,UrlType,Recast100ms,ClassJob.Abbreviation,ClassJobLevel,IsPvP,IsPlayerAction,Description";
+				$usedsl = true;
+				$payload = new stdClass();
+				$payload->indexes = $type;
+				$payload->columns = "ID,Icon,Name,Name_en,Name_de,Name_fr,Name_ja,UrlType,Recast100ms,ClassJob.Abbreviation,ClassJobLevel,IsPvP,IsPlayerAction,Description";
+				$payload->body = new stdClass();
+				$payload->body->query = new stdClass();
+				$payload->body->query->query_string = new stdClass();
+				$payload->body->query->query_string->query = "*{$name}*";				
+				$payload->body->query->query_string->fields = ["Name_{$lang}"];
+				$options = array("http" =>
+					array(
+						"method" => "POST",
+						"header" => "Content-type: application/json",
+						"content" => json_encode($payload)
+					)
+				);
+				$context = stream_context_create($options);
 			}else if($lang == "cn"){
 				$xivapi = "https://cafemaker.wakingsands.com/{$type}?ids={$found_id_string}&Columns=ID,Icon,Name,Name_en,Name_de,Name_fr,Name_ja,Recast100ms,ClassJob.Abbreviation,ClassJobLevel,IsPvP,IsPlayerAction,Description";
 			}else {
 				$xivapi = "https://xivapi.com/{$type}?ids={$found_id_string}&Columns=ID,Icon,Name,Name_en,Name_de,Name_fr,Name_ja,Recast100ms,ClassJob.Abbreviation,ClassJobLevel,IsPvP,IsPlayerAction,Description";
 			}
-			$xivapi_data = json_decode(file_get_contents($xivapi));
+			if($usedsl){
+				$xivapi_data = json_decode(file_get_contents($xivapi, false, $context));
+			}else{
+				$xivapi_data = json_decode(file_get_contents($xivapi));
+			}
+			
 
 			$results = $xivapi_data->Results;
 			foreach($results as $result){
