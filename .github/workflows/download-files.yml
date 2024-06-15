@@ -14,88 +14,68 @@ jobs:
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
 
     - name: Create necessary directories
       run: mkdir -p cn kr
 
-    - name: Get CN Action.csv remote hash
-      id: get_cn_action_hash
+    - name: Get latest commit hash for CN Action.csv
+      id: get_cn_action_commit
       run: |
-        echo "::set-env name=REMOTE_CN_ACTION_HASH::$(curl -s https://raw.githubusercontent.com/thewakingsands/ffxiv-datamining-cn/master/Action.csv | sha256sum | awk '{ print $1 }')"
+        COMMIT_HASH=$(curl -s https://api.github.com/repos/thewakingsands/ffxiv-datamining-cn/commits?path=Action.csv | jq -r '.[0].sha')
+        echo "COMMIT_HASH_CN_ACTION=$COMMIT_HASH" >> $GITHUB_ENV
 
-    - name: Get CN Status.csv remote hash
-      id: get_cn_status_hash
+    - name: Get latest commit hash for CN Status.csv
+      id: get_cn_status_commit
       run: |
-        echo "::set-env name=REMOTE_CN_STATUS_HASH::$(curl -s https://raw.githubusercontent.com/thewakingsands/ffxiv-datamining-cn/master/Status.csv | sha256sum | awk '{ print $1 }')"
+        COMMIT_HASH=$(curl -s https://api.github.com/repos/thewakingsands/ffxiv-datamining-cn/commits?path=Status.csv | jq -r '.[0].sha')
+        echo "COMMIT_HASH_CN_STATUS=$COMMIT_HASH" >> $GITHUB_ENV
 
-    - name: Get KR Action.csv remote hash
-      id: get_kr_action_hash
+    - name: Get latest commit hash for KR Action.csv
+      id: get_kr_action_commit
       run: |
-        echo "::set-env name=REMOTE_KR_ACTION_HASH::$(curl -s https://raw.githubusercontent.com/Ra-Workspace/ffxiv-datamining-ko/master/csv/Action.csv | sha256sum | awk '{ print $1 }')"
+        COMMIT_HASH=$(curl -s https://api.github.com/repos/Ra-Workspace/ffxiv-datamining-ko/commits?path=csv/Action.csv | jq -r '.[0].sha')
+        echo "COMMIT_HASH_KR_ACTION=$COMMIT_HASH" >> $GITHUB_ENV
 
-    - name: Get KR Status.csv remote hash
-      id: get_kr_status_hash
+    - name: Get latest commit hash for KR Status.csv
+      id: get_kr_status_commit
       run: |
-        echo "::set-env name=REMOTE_KR_STATUS_HASH::$(curl -s https://raw.githubusercontent.com/Ra-Workspace/ffxiv-datamining-ko/master/csv/Status.csv | sha256sum | awk '{ print $1 }')"
+        COMMIT_HASH=$(curl -s https://api.github.com/repos/Ra-Workspace/ffxiv-datamining-ko/commits?path=csv/Status.csv | jq -r '.[0].sha')
+        echo "COMMIT_HASH_KR_STATUS=$COMMIT_HASH" >> $GITHUB_ENV
 
-    - name: Calculate local CN Action.csv hash
-      id: get_local_cn_action_hash
+    - name: Get local commit hashes
+      id: get_local_commit_hashes
       run: |
-        if [ -f cn/Action.csv ]; then
-          echo "::set-env name=LOCAL_CN_ACTION_HASH::$(sha256sum cn/Action.csv | awk '{ print $1 }')"
-        else
-          echo "::set-env name=LOCAL_CN_ACTION_HASH::no_file"
-        fi
-
-    - name: Calculate local CN Status.csv hash
-      id: get_local_cn_status_hash
-      run: |
-        if [ -f cn/Status.csv ]; then
-          echo "::set-env name=LOCAL_CN_STATUS_HASH::$(sha256sum cn/Status.csv | awk '{ print $1 }')"
-        else
-          echo "::set-env name=LOCAL_CN_STATUS_HASH::no_file"
-        fi
-
-    - name: Calculate local KR Action.csv hash
-      id: get_local_kr_action_hash
-      run: |
-        if [ -f kr/Action.csv ]; then
-          echo "::set-env name=LOCAL_KR_ACTION_HASH::$(sha256sum kr/Action.csv | awk '{ print $1 }')"
-        else
-          echo "::set-env name=LOCAL_KR_ACTION_HASH::no_file"
-        fi
-
-    - name: Calculate local KR Status.csv hash
-      id: get_local_kr_status_hash
-      run: |
-        if [ -f kr/Status.csv ]; then
-          echo "::set-env name=LOCAL_KR_STATUS_HASH::$(sha256sum kr/Status.csv | awk '{ print $1 }')"
-        else
-          echo "::set-env name=LOCAL_KR_STATUS_HASH::no_file"
-        fi
+        LOCAL_COMMIT_HASH_CN_ACTION=$(git log -n 1 --pretty=format:%H -- cn/Action.csv 2>/dev/null || echo "no_file")
+        echo "LOCAL_COMMIT_HASH_CN_ACTION=$LOCAL_COMMIT_HASH_CN_ACTION" >> $GITHUB_ENV
+        LOCAL_COMMIT_HASH_CN_STATUS=$(git log -n 1 --pretty=format:%H -- cn/Status.csv 2>/dev/null || echo "no_file")
+        echo "LOCAL_COMMIT_HASH_CN_STATUS=$LOCAL_COMMIT_HASH_CN_STATUS" >> $GITHUB_ENV
+        LOCAL_COMMIT_HASH_KR_ACTION=$(git log -n 1 --pretty=format:%H -- kr/Action.csv 2>/dev/null || echo "no_file")
+        echo "LOCAL_COMMIT_HASH_KR_ACTION=$LOCAL_COMMIT_HASH_KR_ACTION" >> $GITHUB_ENV
+        LOCAL_COMMIT_HASH_KR_STATUS=$(git log -n 1 --pretty=format:%H -- kr/Status.csv 2>/dev/null || echo "no_file")
+        echo "LOCAL_COMMIT_HASH_KR_STATUS=$LOCAL_COMMIT_HASH_KR_STATUS" >> $GITHUB_ENV
 
     - name: Check if CN Action.csv has changed
       run: |
-        if [ "${{ env.LOCAL_CN_ACTION_HASH }}" != "${{ env.REMOTE_CN_ACTION_HASH }}" ]; then
+        if [ "${{ env.LOCAL_COMMIT_HASH_CN_ACTION }}" != "${{ env.COMMIT_HASH_CN_ACTION }}" ]; then
           curl -o cn/Action.csv https://raw.githubusercontent.com/thewakingsands/ffxiv-datamining-cn/master/Action.csv
         fi
 
     - name: Check if CN Status.csv has changed
       run: |
-        if [ "${{ env.LOCAL_CN_STATUS_HASH }}" != "${{ env.REMOTE_CN_STATUS_HASH }}" ]; then
+        if [ "${{ env.LOCAL_COMMIT_HASH_CN_STATUS }}" != "${{ env.COMMIT_HASH_CN_STATUS }}" ]; then
           curl -o cn/Status.csv https://raw.githubusercontent.com/thewakingsands/ffxiv-datamining-cn/master/Status.csv
         fi
 
     - name: Check if KR Action.csv has changed
       run: |
-        if [ "${{ env.LOCAL_KR_ACTION_HASH }}" != "${{ env.REMOTE_KR_ACTION_HASH }}" ]; then
+        if [ "${{ env.LOCAL_COMMIT_HASH_KR_ACTION }}" != "${{ env.COMMIT_HASH_KR_ACTION }}" ]; then
           curl -o kr/Action.csv https://raw.githubusercontent.com/Ra-Workspace/ffxiv-datamining-ko/master/csv/Action.csv
         fi
 
     - name: Check if KR Status.csv has changed
       run: |
-        if [ "${{ env.LOCAL_KR_STATUS_HASH }}" != "${{ env.REMOTE_KR_STATUS_HASH }}" ]; then
+        if [ "${{ env.LOCAL_COMMIT_HASH_KR_STATUS }}" != "${{ env.COMMIT_HASH_KR_STATUS }}" ]; then
           curl -o kr/Status.csv https://raw.githubusercontent.com/Ra-Workspace/ffxiv-datamining-ko/master/csv/Status.csv
         fi
 
