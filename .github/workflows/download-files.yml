@@ -14,7 +14,7 @@ jobs:
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4 # Updated to use Node.js 20
 
     - name: Create necessary directories
       run: mkdir -p cn kr
