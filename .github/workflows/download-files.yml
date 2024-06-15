@@ -1,0 +1,111 @@
+name: Check and Download CSV files
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 0 * * 0' # This will run the workflow weekly at midnight UTC on Sundays
+
+jobs:
+  download:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Create necessary directories
+      run: mkdir -p cn kr
+
+    - name: Get CN Action.csv remote hash
+      id: get_cn_action_hash
+      run: |
+        echo "::set-env name=REMOTE_CN_ACTION_HASH::$(curl -s https://raw.githubusercontent.com/thewakingsands/ffxiv-datamining-cn/master/Action.csv | sha256sum | awk '{ print $1 }')"
+
+    - name: Get CN Status.csv remote hash
+      id: get_cn_status_hash
+      run: |
+        echo "::set-env name=REMOTE_CN_STATUS_HASH::$(curl -s https://raw.githubusercontent.com/thewakingsands/ffxiv-datamining-cn/master/Status.csv | sha256sum | awk '{ print $1 }')"
+
+    - name: Get KR Action.csv remote hash
+      id: get_kr_action_hash
+      run: |
+        echo "::set-env name=REMOTE_KR_ACTION_HASH::$(curl -s https://raw.githubusercontent.com/Ra-Workspace/ffxiv-datamining-ko/master/csv/Action.csv | sha256sum | awk '{ print $1 }')"
+
+    - name: Get KR Status.csv remote hash
+      id: get_kr_status_hash
+      run: |
+        echo "::set-env name=REMOTE_KR_STATUS_HASH::$(curl -s https://raw.githubusercontent.com/Ra-Workspace/ffxiv-datamining-ko/master/csv/Status.csv | sha256sum | awk '{ print $1 }')"
+
+    - name: Calculate local CN Action.csv hash
+      id: get_local_cn_action_hash
+      run: |
+        if [ -f cn/Action.csv ]; then
+          echo "::set-env name=LOCAL_CN_ACTION_HASH::$(sha256sum cn/Action.csv | awk '{ print $1 }')"
+        else
+          echo "::set-env name=LOCAL_CN_ACTION_HASH::no_file"
+        fi
+
+    - name: Calculate local CN Status.csv hash
+      id: get_local_cn_status_hash
+      run: |
+        if [ -f cn/Status.csv ]; then
+          echo "::set-env name=LOCAL_CN_STATUS_HASH::$(sha256sum cn/Status.csv | awk '{ print $1 }')"
+        else
+          echo "::set-env name=LOCAL_CN_STATUS_HASH::no_file"
+        fi
+
+    - name: Calculate local KR Action.csv hash
+      id: get_local_kr_action_hash
+      run: |
+        if [ -f kr/Action.csv ]; then
+          echo "::set-env name=LOCAL_KR_ACTION_HASH::$(sha256sum kr/Action.csv | awk '{ print $1 }')"
+        else
+          echo "::set-env name=LOCAL_KR_ACTION_HASH::no_file"
+        fi
+
+    - name: Calculate local KR Status.csv hash
+      id: get_local_kr_status_hash
+      run: |
+        if [ -f kr/Status.csv ]; then
+          echo "::set-env name=LOCAL_KR_STATUS_HASH::$(sha256sum kr/Status.csv | awk '{ print $1 }')"
+        else
+          echo "::set-env name=LOCAL_KR_STATUS_HASH::no_file"
+        fi
+
+    - name: Check if CN Action.csv has changed
+      run: |
+        if [ "${{ env.LOCAL_CN_ACTION_HASH }}" != "${{ env.REMOTE_CN_ACTION_HASH }}" ]; then
+          curl -o cn/Action.csv https://raw.githubusercontent.com/thewakingsands/ffxiv-datamining-cn/master/Action.csv
+        fi
+
+    - name: Check if CN Status.csv has changed
+      run: |
+        if [ "${{ env.LOCAL_CN_STATUS_HASH }}" != "${{ env.REMOTE_CN_STATUS_HASH }}" ]; then
+          curl -o cn/Status.csv https://raw.githubusercontent.com/thewakingsands/ffxiv-datamining-cn/master/Status.csv
+        fi
+
+    - name: Check if KR Action.csv has changed
+      run: |
+        if [ "${{ env.LOCAL_KR_ACTION_HASH }}" != "${{ env.REMOTE_KR_ACTION_HASH }}" ]; then
+          curl -o kr/Action.csv https://raw.githubusercontent.com/Ra-Workspace/ffxiv-datamining-ko/master/csv/Action.csv
+        fi
+
+    - name: Check if KR Status.csv has changed
+      run: |
+        if [ "${{ env.LOCAL_KR_STATUS_HASH }}" != "${{ env.REMOTE_KR_STATUS_HASH }}" ]; then
+          curl -o kr/Status.csv https://raw.githubusercontent.com/Ra-Workspace/ffxiv-datamining-ko/master/csv/Status.csv
+        fi
+
+    - name: Commit and push changes
+      run: |
+        if [ -n "$(git status --porcelain)" ]; then
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add .
+          git commit -m 'Update CSV files'
+          git push
+        fi
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
