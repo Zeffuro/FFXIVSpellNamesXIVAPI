@@ -1,6 +1,13 @@
 <?php
-ini_set('memory_limit', '-1');
 header('Access-Control-Allow-Origin: *');
+header('Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS');
+header('Access-Control-Allow-Headers: Content-Type, Authorization');
+
+if ($_SERVER['REQUEST_METHOD'] === 'OPTIONS') {
+    exit(0);
+}
+
+ini_set('memory_limit', '-1');
 
 function getCsv($file) {
     if (!($fp = fopen($file, 'r'))) {
@@ -117,6 +124,7 @@ if (isset($_GET["id"]) || (isset($_GET["name"]) && isset($_GET["type"]) && isset
         echo json_encode($results);
     }
 } else {
-    echo "No parameters given";
+    header("Content-Type: application/json");
+    echo json_encode(["error" => "No parameters given"]);
 }
 ?>
