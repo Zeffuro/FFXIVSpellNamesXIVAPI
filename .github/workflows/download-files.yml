@@ -17,7 +17,7 @@ jobs:
       uses: actions/checkout@v4 # Updated to use Node.js 20
 
     - name: Create necessary directories
-      run: mkdir -p cn kr
+      run: mkdir -p cn kr gl
 
     - name: Get latest commit hash for CN Action.csv
       id: get_cn_action_commit
@@ -43,6 +43,18 @@ jobs:
         COMMIT_HASH=$(curl -s https://api.github.com/repos/Ra-Workspace/ffxiv-datamining-ko/commits?path=csv/Status.csv | jq -r '.[0].sha')
         echo "COMMIT_HASH_KR_STATUS=$COMMIT_HASH" >> $GITHUB_ENV
 
+    - name: Get latest commit hash for Global Action.csv
+      id: get_gl_action_commit
+      run: |
+        COMMIT_HASH=$(curl -s https://api.github.com/repos/xivapi/ffxiv-datamining/commits?path=csv/Action.csv | jq -r '.[0].sha')
+        echo "COMMIT_HASH_GL_ACTION=$COMMIT_HASH" >> $GITHUB_ENV
+
+    - name: Get latest commit hash for Global Status.csv
+      id: get_gl_status_commit
+      run: |
+        COMMIT_HASH=$(curl -s https://api.github.com/repos/xivapi/ffxiv-datamining/commits?path=csv/Status.csv | jq -r '.[0].sha')
+        echo "COMMIT_HASH_GL_STATUS=$COMMIT_HASH" >> $GITHUB_ENV
+        
     - name: Get local commit hashes
       id: get_local_commit_hashes
       run: |
@@ -54,6 +66,10 @@ jobs:
         echo "LOCAL_COMMIT_HASH_KR_ACTION=$LOCAL_COMMIT_HASH_KR_ACTION" >> $GITHUB_ENV
         LOCAL_COMMIT_HASH_KR_STATUS=$(git log -n 1 --pretty=format:%H -- kr/Status.csv 2>/dev/null || echo "no_file")
         echo "LOCAL_COMMIT_HASH_KR_STATUS=$LOCAL_COMMIT_HASH_KR_STATUS" >> $GITHUB_ENV
+        LOCAL_COMMIT_HASH_KR_ACTION=$(git log -n 1 --pretty=format:%H -- gl/Action.csv 2>/dev/null || echo "no_file")
+        echo "LOCAL_COMMIT_HASH_KR_ACTION=$LOCAL_COMMIT_HASH_GL_ACTION" >> $GITHUB_ENV
+        LOCAL_COMMIT_HASH_KR_STATUS=$(git log -n 1 --pretty=format:%H -- gl/Status.csv 2>/dev/null || echo "no_file")
+        echo "LOCAL_COMMIT_HASH_KR_STATUS=$LOCAL_COMMIT_HASH_GL_STATUS" >> $GITHUB_ENV
 
     - name: Check if CN Action.csv has changed
       run: |
@@ -79,13 +95,38 @@ jobs:
           curl -o kr/Status.csv https://raw.githubusercontent.com/Ra-Workspace/ffxiv-datamining-ko/master/csv/Status.csv
         fi
 
+    - name: Check if GL Action.csv has changed
+      run: |
+        if [ "${{ env.LOCAL_COMMIT_HASH_GL_ACTION }}" != "${{ env.COMMIT_HASH_GL_ACTION }}" ]; then
+          curl -o kr/Action.csv https://raw.githubusercontent.com/xivapi/ffxiv-datamining/master/csv/Action.csv
+        fi
+
+    - name: Check if GL Status.csv has changed
+      run: |
+        if [ "${{ env.LOCAL_COMMIT_HASH_GL_STATUS }}" != "${{ env.COMMIT_HASH_GL_STATUS }}" ]; then
+          curl -o kr/Status.csv https://raw.githubusercontent.com/xivapi/ffxiv-datamining/master/csv/Status.csv
+        fi
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install pandas
+
+    - name: Run processCsv.py
+      run: python processCsv.py
+
     - name: Commit and push changes
       run: |
         if [ -n "$(git status --porcelain)" ]; then
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add .
-          git commit -m 'Update CSV files'
+          git commit -m 'Update CSV files & JSON Files'
           git push
         fi
       env:
