@@ -128,6 +128,8 @@ if (isset($_GET["name"]) && isset($_GET["type"]) && isset($_GET["lang"])) {
         
         if ($lang == "cn") {
             $xivapi = "https://cafemaker.wakingsands.com/{$type}?ids={$found_id_string}&Columns=ID,Icon,Name,Name_en,Name_de,Name_fr,Name_ja,Recast100ms,ClassJob.Abbreviation,ClassJobLevel,IsPvP,IsPlayerAction,Description";
+        }else{
+            $xivapi = "https://xivapi.com/{$type}?ids={$found_id_string}&Columns=ID,Icon,Name,Name_en,Name_de,Name_fr,Name_ja,Recast100ms,ClassJob.Abbreviation,ClassJobLevel,IsPvP,IsPlayerAction,Description";
         }
         
         $xivapi_data = json_decode(file_get_contents($xivapi));
