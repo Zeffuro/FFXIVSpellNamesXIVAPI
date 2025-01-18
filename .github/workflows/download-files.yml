@@ -98,13 +98,13 @@ jobs:
     - name: Check if GL Action.csv has changed
       run: |
         if [ "${{ env.LOCAL_COMMIT_HASH_GL_ACTION }}" != "${{ env.COMMIT_HASH_GL_ACTION }}" ]; then
-          curl -o kr/Action.csv https://raw.githubusercontent.com/xivapi/ffxiv-datamining/master/csv/Action.csv
+          curl -o gl/Action.csv https://raw.githubusercontent.com/xivapi/ffxiv-datamining/master/csv/Action.csv
         fi
 
     - name: Check if GL Status.csv has changed
       run: |
         if [ "${{ env.LOCAL_COMMIT_HASH_GL_STATUS }}" != "${{ env.COMMIT_HASH_GL_STATUS }}" ]; then
-          curl -o kr/Status.csv https://raw.githubusercontent.com/xivapi/ffxiv-datamining/master/csv/Status.csv
+          curl -o gl/Status.csv https://raw.githubusercontent.com/xivapi/ffxiv-datamining/master/csv/Status.csv
         fi
 
     - name: Set up Python
