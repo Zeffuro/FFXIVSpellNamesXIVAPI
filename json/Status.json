@@ -17645,7 +17645,7 @@
     },
     {
         "ID": 4414,
-        "Name": null
+        "Name": "Multihook"
     },
     {
         "ID": 4415,
@@ -17737,7 +17737,7 @@
     },
     {
         "ID": 4437,
-        "Name": null
+        "Name": "Greater Reach Ready"
     },
     {
         "ID": 4438,
@@ -19345,7 +19345,7 @@
     },
     {
         "ID": 4839,
-        "Name": null
+        "Name": "Stellar Steady Hand"
     },
     {
         "ID": 4840,
@@ -19973,7 +19973,7 @@
     },
     {
         "ID": 4996,
-        "Name": null
+        "Name": "Attractor Beam Charged"
     },
     {
         "ID": 4997,
@@ -20161,11 +20161,11 @@
     },
     {
         "ID": 5043,
-        "Name": null
+        "Name": "Stun"
     },
     {
         "ID": 5044,
-        "Name": null
+        "Name": "Heavy"
     },
     {
         "ID": 5045,
