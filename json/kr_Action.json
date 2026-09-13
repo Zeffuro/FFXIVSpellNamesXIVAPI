@@ -179513,111 +179513,111 @@
     },
     {
         "ID":44879,
-        "Name":null
+        "Name":"도끼 강타"
     },
     {
         "ID":44880,
-        "Name":null
+        "Name":"포획하기"
     },
     {
         "ID":44881,
-        "Name":null
+        "Name":"마수 호루라기 1"
     },
     {
         "ID":44882,
-        "Name":null
+        "Name":"파악하기"
     },
     {
         "ID":44883,
-        "Name":null
+        "Name":"도끼 쌍격"
     },
     {
         "ID":44884,
-        "Name":null
+        "Name":"산사태 도끼"
     },
     {
         "ID":44885,
-        "Name":null
+        "Name":"방패 분쇄"
     },
     {
         "ID":44886,
-        "Name":null
+        "Name":"마수 기술"
     },
     {
         "ID":44887,
-        "Name":null
+        "Name":"삭풍 도끼"
     },
     {
         "ID":44888,
-        "Name":null
+        "Name":"회전 도끼"
     },
     {
         "ID":44889,
-        "Name":null
+        "Name":"돌풍 도끼"
     },
     {
         "ID":44890,
-        "Name":null
+        "Name":"능력 해방"
     },
     {
         "ID":44891,
-        "Name":null
+        "Name":"마지막 일격"
     },
     {
         "ID":44892,
-        "Name":null
+        "Name":"마수 호루라기 2"
     },
     {
         "ID":44893,
-        "Name":null
+        "Name":"방패 돌진"
     },
     {
         "ID":44894,
-        "Name":null
+        "Name":"마수 호루라기 3"
     },
     {
         "ID":44895,
-        "Name":null
+        "Name":"빌리기"
     },
     {
         "ID":44896,
-        "Name":null
+        "Name":"백수강 외피"
     },
     {
         "ID":44897,
-        "Name":null
+        "Name":"백충강 외피"
     },
     {
         "ID":44898,
-        "Name":null
+        "Name":"구름 활공"
     },
     {
         "ID":44899,
-        "Name":null
+        "Name":"씨앗 살포"
     },
     {
         "ID":44900,
-        "Name":null
+        "Name":"제압 파동"
     },
     {
         "ID":44901,
-        "Name":null
+        "Name":"갑린강 외피"
     },
     {
         "ID":44902,
-        "Name":null
+        "Name":"영혼 파괴"
     },
     {
         "ID":44903,
-        "Name":null
+        "Name":"재의 정화"
     },
     {
         "ID":44904,
-        "Name":null
+        "Name":"응원하기"
     },
     {
         "ID":44905,
-        "Name":null
+        "Name":"기 모으기"
     },
     {
         "ID":44906,
@@ -179637,31 +179637,31 @@
     },
     {
         "ID":44910,
-        "Name":null
+        "Name":"수심기 연계 1: 비상"
     },
     {
         "ID":44911,
-        "Name":null
+        "Name":"수심기 연계 1: 맹렬"
     },
     {
         "ID":44912,
-        "Name":null
+        "Name":"수심기 연계 1: 견고"
     },
     {
         "ID":44913,
-        "Name":null
+        "Name":"수심기 연계 1: 마력"
     },
     {
         "ID":44914,
-        "Name":null
+        "Name":"수심기 연계 2: 활명격"
     },
     {
         "ID":44915,
-        "Name":null
+        "Name":"수심기 연계 2: 멸명격"
     },
     {
         "ID":44916,
-        "Name":null
+        "Name":"수심기 연계 3: 만상유전"
     },
     {
         "ID":44917,
@@ -179717,423 +179717,423 @@
     },
     {
         "ID":44930,
-        "Name":null
+        "Name":"잔혹한 분노"
     },
     {
         "ID":44931,
-        "Name":null
+        "Name":"매의 발톱"
     },
     {
         "ID":44932,
-        "Name":null
+        "Name":"도약 낙하"
     },
     {
         "ID":44933,
-        "Name":null
+        "Name":"재앙"
     },
     {
         "ID":44934,
-        "Name":null
+        "Name":"에테르 분출"
     },
     {
         "ID":44935,
-        "Name":null
+        "Name":"할퀴기"
     },
     {
         "ID":44936,
-        "Name":null
+        "Name":"연속 할퀴기"
     },
     {
         "ID":44937,
-        "Name":null
+        "Name":"반월베기"
     },
     {
         "ID":44938,
-        "Name":null
+        "Name":"전광석화"
     },
     {
         "ID":44939,
-        "Name":null
+        "Name":"몸통 박치기"
     },
     {
         "ID":44940,
-        "Name":null
+        "Name":"자장가"
     },
     {
         "ID":44941,
-        "Name":null
+        "Name":"회전 돌진"
     },
     {
         "ID":44942,
-        "Name":null
+        "Name":"물의 벽"
     },
     {
         "ID":44943,
-        "Name":null
+        "Name":"돌 던지기"
     },
     {
         "ID":44944,
-        "Name":null
+        "Name":"마비 할퀴기"
     },
     {
         "ID":44945,
-        "Name":null
+        "Name":"노린내"
     },
     {
         "ID":44946,
-        "Name":null
+        "Name":"버팀목"
     },
     {
         "ID":44947,
-        "Name":null
+        "Name":"마수 선더"
     },
     {
         "ID":44948,
-        "Name":null
+        "Name":"경질화"
     },
     {
         "ID":44949,
-        "Name":null
+        "Name":"치명적 일격"
     },
     {
         "ID":44950,
-        "Name":null
+        "Name":"명주실 장막"
     },
     {
         "ID":44951,
-        "Name":null
+        "Name":"수력 강타"
     },
     {
         "ID":44952,
-        "Name":null
+        "Name":"거품 세례"
     },
     {
         "ID":44953,
-        "Name":null
+        "Name":"예리한 벌침"
     },
     {
         "ID":44954,
-        "Name":null
+        "Name":"마지막 벌침"
     },
     {
         "ID":44955,
-        "Name":null
+        "Name":"칼날 날개"
     },
     {
         "ID":44956,
-        "Name":null
+        "Name":"전율의 외침"
     },
     {
         "ID":44957,
-        "Name":null
+        "Name":"박치기"
     },
     {
         "ID":44958,
-        "Name":null
+        "Name":"절규"
     },
     {
         "ID":44959,
-        "Name":null
+        "Name":"다크 선더"
     },
     {
         "ID":44960,
-        "Name":null
+        "Name":"해악"
     },
     {
         "ID":44961,
-        "Name":null
+        "Name":"화염구"
     },
     {
         "ID":44962,
-        "Name":null
+        "Name":"꼬리 휘두르기"
     },
     {
         "ID":44963,
-        "Name":null
+        "Name":"거품 세례"
     },
     {
         "ID":44964,
-        "Name":null
+        "Name":"백렬권"
     },
     {
         "ID":44965,
-        "Name":null
+        "Name":"세로베기"
     },
     {
         "ID":44966,
-        "Name":null
+        "Name":"괴음파"
     },
     {
         "ID":44967,
-        "Name":null
+        "Name":"소화"
     },
     {
         "ID":44968,
-        "Name":null
+        "Name":"단물"
     },
     {
         "ID":44969,
-        "Name":null
+        "Name":"강철의 정의"
     },
     {
         "ID":44970,
-        "Name":null
+        "Name":"왕의 유언"
     },
     {
         "ID":44971,
-        "Name":null
+        "Name":"흡혈"
     },
     {
         "ID":44972,
-        "Name":null
+        "Name":"초음파"
     },
     {
         "ID":44973,
-        "Name":null
+        "Name":"시큼한 바람"
     },
     {
         "ID":44974,
-        "Name":null
+        "Name":"산성 꽃꿀"
     },
     {
         "ID":44975,
-        "Name":null
+        "Name":"냉기 숨결"
     },
     {
         "ID":44976,
-        "Name":null
+        "Name":"석화 숨결"
     },
     {
         "ID":44977,
-        "Name":null
+        "Name":"바늘 여러 개"
     },
     {
         "ID":44978,
-        "Name":null
+        "Name":"격려의 춤"
     },
     {
         "ID":44979,
-        "Name":null
+        "Name":"바위 우레"
     },
     {
         "ID":44980,
-        "Name":null
+        "Name":"낙석"
     },
     {
         "ID":44981,
-        "Name":null
+        "Name":"날아라 정어리"
     },
     {
         "ID":44982,
-        "Name":null
+        "Name":"음식 역류"
     },
     {
         "ID":44983,
-        "Name":null
+        "Name":"마수 선더라"
     },
     {
         "ID":44984,
-        "Name":null
+        "Name":"등딱지 강화"
     },
     {
         "ID":44985,
-        "Name":null
+        "Name":"흐느낌"
     },
     {
         "ID":44986,
-        "Name":null
+        "Name":"우렁찬 외침"
     },
     {
         "ID":44987,
-        "Name":null
+        "Name":"서리 숨결"
     },
     {
         "ID":44988,
-        "Name":null
+        "Name":"가스 연막"
     },
     {
         "ID":44989,
-        "Name":null
+        "Name":"모래 숨결"
     },
     {
         "ID":44990,
-        "Name":null
+        "Name":"모래늪"
     },
     {
         "ID":44991,
-        "Name":null
+        "Name":"천방지축"
     },
     {
         "ID":44992,
-        "Name":null
+        "Name":"열광의 일격"
     },
     {
         "ID":44993,
-        "Name":null
+        "Name":"두들겨 부수기"
     },
     {
         "ID":44994,
-        "Name":null
+        "Name":"곰팡이 재채기"
     },
     {
         "ID":44995,
-        "Name":null
+        "Name":"마수 블리자라"
     },
     {
         "ID":44996,
-        "Name":null
+        "Name":"찐득한 혀"
     },
     {
         "ID":44997,
-        "Name":null
+        "Name":"순환"
     },
     {
         "ID":44998,
-        "Name":null
+        "Name":"쪼아대기"
     },
     {
         "ID":44999,
-        "Name":null
+        "Name":"블래스터"
     },
     {
         "ID":45000,
-        "Name":null
+        "Name":"전기 수염"
     },
     {
         "ID":45001,
-        "Name":null
+        "Name":"서리 숨결"
     },
     {
         "ID":45002,
-        "Name":null
+        "Name":"고약한 숨결"
     },
     {
         "ID":45003,
-        "Name":null
+        "Name":"화염 태풍"
     },
     {
         "ID":45004,
-        "Name":null
+        "Name":"불꽃 비늘"
     },
     {
         "ID":45005,
-        "Name":null
+        "Name":"도토리 폭탄"
     },
     {
         "ID":45006,
-        "Name":null
+        "Name":"나뭇가지 폭풍"
     },
     {
         "ID":45007,
-        "Name":null
+        "Name":"아래턱 물기"
     },
     {
         "ID":45008,
-        "Name":null
+        "Name":"포름산 페로몬"
     },
     {
         "ID":45009,
-        "Name":null
+        "Name":"화염 숨결"
     },
     {
         "ID":45010,
-        "Name":null
+        "Name":"빙결의 포효"
     },
     {
         "ID":45011,
-        "Name":null
+        "Name":"꼬챙이"
     },
     {
         "ID":45012,
-        "Name":null
+        "Name":"역한 입냄새"
     },
     {
         "ID":45013,
-        "Name":null
+        "Name":"저주의 바람"
     },
     {
         "ID":45014,
-        "Name":null
+        "Name":"저주"
     },
     {
         "ID":45015,
-        "Name":null
+        "Name":"소금물 비"
     },
     {
         "ID":45016,
-        "Name":null
+        "Name":"신비한 빛"
     },
     {
         "ID":45017,
-        "Name":null
+        "Name":"독 송곳니"
     },
     {
         "ID":45018,
-        "Name":null
+        "Name":"석화 시선"
     },
     {
         "ID":45019,
-        "Name":null
+        "Name":"주요 함정"
     },
     {
         "ID":45020,
-        "Name":null
+        "Name":"하얀 숨결"
     },
     {
         "ID":45021,
-        "Name":null
+        "Name":"저주받은 구체"
     },
     {
         "ID":45022,
-        "Name":null
+        "Name":"독액"
     },
     {
         "ID":45023,
-        "Name":null
+        "Name":"더러운 재채기"
     },
     {
         "ID":45024,
-        "Name":null
+        "Name":"빨아들이기"
     },
     {
         "ID":45025,
-        "Name":null
+        "Name":"광란"
     },
     {
         "ID":45026,
-        "Name":null
+        "Name":"날개바람"
     },
     {
         "ID":45027,
-        "Name":null
+        "Name":"얼음 단두대"
     },
     {
         "ID":45028,
-        "Name":null
+        "Name":"얼음 심장"
     },
     {
         "ID":45029,
-        "Name":null
+        "Name":"꼬챙이"
     },
     {
         "ID":45030,
-        "Name":null
+        "Name":"꼬리 후려치기"
     },
     {
         "ID":45031,
-        "Name":null
+        "Name":"피의 애무"
     },
     {
         "ID":45032,
-        "Name":null
+        "Name":"시든 꽃다발"
     },
     {
         "ID":45033,
-        "Name":null
+        "Name":"벼락"
     },
     {
         "ID":45034,
-        "Name":null
+        "Name":"메테오"
     },
     {
         "ID":45035,
@@ -180149,19 +180149,19 @@
     },
     {
         "ID":45038,
-        "Name":null
+        "Name":"구름 활공"
     },
     {
         "ID":45039,
-        "Name":null
+        "Name":"구름 활공"
     },
     {
         "ID":45040,
-        "Name":null
+        "Name":"구름 활공"
     },
     {
         "ID":45041,
-        "Name":null
+        "Name":"구름 활공"
     },
     {
         "ID":45042,
@@ -186997,15 +186997,15 @@
     },
     {
         "ID":46750,
-        "Name":null
+        "Name":"도발하기"
     },
     {
         "ID":46751,
-        "Name":null
+        "Name":"시선 끌기"
     },
     {
         "ID":46752,
-        "Name":null
+        "Name":"위협"
     },
     {
         "ID":46753,
@@ -187453,7 +187453,7 @@
     },
     {
         "ID":46864,
-        "Name":null
+        "Name":"전방 방어"
     },
     {
         "ID":46865,
@@ -187461,51 +187461,51 @@
     },
     {
         "ID":46866,
-        "Name":null
+        "Name":"봉분"
     },
     {
         "ID":46867,
-        "Name":null
+        "Name":"죽음의 소용돌이"
     },
     {
         "ID":46868,
-        "Name":null
+        "Name":"죽음의 소용돌이"
     },
     {
         "ID":46869,
-        "Name":null
+        "Name":"에인션트 에어로"
     },
     {
         "ID":46870,
-        "Name":null
+        "Name":"에인션트 에어로"
     },
     {
         "ID":46871,
-        "Name":null
+        "Name":"굳히기"
     },
     {
         "ID":46872,
-        "Name":null
+        "Name":"해골 조각"
     },
     {
         "ID":46873,
-        "Name":null
+        "Name":"검은 폭발"
     },
     {
         "ID":46874,
-        "Name":null
+        "Name":"검은 폭발"
     },
     {
         "ID":46875,
-        "Name":null
+        "Name":"심연의 돌격"
     },
     {
         "ID":46876,
-        "Name":null
+        "Name":"심연의 돌격"
     },
     {
         "ID":46877,
-        "Name":null
+        "Name":"갈가리 찢기"
     },
     {
         "ID":46878,
@@ -187513,11 +187513,11 @@
     },
     {
         "ID":46879,
-        "Name":null
+        "Name":"갈가리 찢기"
     },
     {
         "ID":46880,
-        "Name":null
+        "Name":"심연의 관통"
     },
     {
         "ID":46881,
@@ -187525,7 +187525,7 @@
     },
     {
         "ID":46882,
-        "Name":null
+        "Name":"심연의 관통"
     },
     {
         "ID":46883,
@@ -187533,123 +187533,123 @@
     },
     {
         "ID":46884,
-        "Name":null
+        "Name":"심연의 관통"
     },
     {
         "ID":46885,
-        "Name":null
+        "Name":"심연의 공격"
     },
     {
         "ID":46886,
-        "Name":null
+        "Name":"심연의 공격"
     },
     {
         "ID":46887,
-        "Name":null
+        "Name":"보이드 블리자가"
     },
     {
         "ID":46888,
-        "Name":null
+        "Name":"보이드 블리자가"
     },
     {
         "ID":46889,
-        "Name":null
+        "Name":"보이드 블리자가"
     },
     {
         "ID":46890,
-        "Name":null
+        "Name":"보이드 블리자가"
     },
     {
         "ID":46891,
-        "Name":null
+        "Name":"보이드 선더가"
     },
     {
         "ID":46892,
-        "Name":null
+        "Name":"보이드 선더가"
     },
     {
         "ID":46893,
-        "Name":null
+        "Name":"보이드 타오르는 별"
     },
     {
         "ID":46894,
-        "Name":null
+        "Name":"보이드 타오르는 별"
     },
     {
         "ID":46895,
-        "Name":null
+        "Name":"보이드 타오르는 별"
     },
     {
         "ID":46896,
-        "Name":null
+        "Name":"보이드 에어로가"
     },
     {
         "ID":46897,
-        "Name":null
+        "Name":"보이드 에어로가"
     },
     {
         "ID":46898,
-        "Name":null
+        "Name":"정신 정화"
     },
     {
         "ID":46899,
-        "Name":null
+        "Name":"마법 폭발"
     },
     {
         "ID":46900,
-        "Name":null
+        "Name":"검은 폭발"
     },
     {
         "ID":46901,
-        "Name":null
+        "Name":"지반 융기"
     },
     {
         "ID":46902,
-        "Name":null
+        "Name":"지반 융기"
     },
     {
         "ID":46903,
-        "Name":null
+        "Name":"지반 융기"
     },
     {
         "ID":46904,
-        "Name":null
+        "Name":"지반 융기"
     },
     {
         "ID":46905,
-        "Name":null
+        "Name":"지반 융기"
     },
     {
         "ID":46906,
-        "Name":null
+        "Name":"치명적 일격"
     },
     {
         "ID":46907,
-        "Name":null
+        "Name":"독 거미줄"
     },
     {
         "ID":46908,
-        "Name":null
+        "Name":"독 거미줄"
     },
     {
         "ID":46909,
-        "Name":null
+        "Name":"명주실 장막"
     },
     {
         "ID":46910,
-        "Name":null
+        "Name":"작열 강타"
     },
     {
         "ID":46911,
-        "Name":null
+        "Name":"작열 강타"
     },
     {
         "ID":46912,
-        "Name":null
+        "Name":"작열 강타"
     },
     {
         "ID":46913,
-        "Name":null
+        "Name":"작열 강타"
     },
     {
         "ID":46914,
@@ -187657,67 +187657,67 @@
     },
     {
         "ID":46915,
-        "Name":null
+        "Name":"대분화"
     },
     {
         "ID":46916,
-        "Name":null
+        "Name":"용암"
     },
     {
         "ID":46917,
-        "Name":null
+        "Name":"용암"
     },
     {
         "ID":46918,
-        "Name":null
+        "Name":"불 정령의 수호"
     },
     {
         "ID":46919,
-        "Name":null
+        "Name":"대화염"
     },
     {
         "ID":46920,
-        "Name":null
+        "Name":"뼈대 꺾기"
     },
     {
         "ID":46921,
-        "Name":null
+        "Name":"불덩이 생성"
     },
     {
         "ID":46922,
-        "Name":null
+        "Name":"번짐불"
     },
     {
         "ID":46923,
-        "Name":null
+        "Name":"핏빛 비"
     },
     {
         "ID":46924,
-        "Name":null
+        "Name":"핏빛 비"
     },
     {
         "ID":46925,
-        "Name":null
+        "Name":"핏빛 비"
     },
     {
         "ID":46926,
-        "Name":null
+        "Name":"핏빛 비"
     },
     {
         "ID":46927,
-        "Name":null
+        "Name":"소환"
     },
     {
         "ID":46928,
-        "Name":null
+        "Name":"맹신"
     },
     {
         "ID":46929,
-        "Name":null
+        "Name":"보이드 파이라"
     },
     {
         "ID":46930,
-        "Name":null
+        "Name":"달콤한 검격"
     },
     {
         "ID":46931,
@@ -187725,31 +187725,31 @@
     },
     {
         "ID":46932,
-        "Name":null
+        "Name":"보이드 에어로라"
     },
     {
         "ID":46933,
-        "Name":null
+        "Name":"보이드 에어로라"
     },
     {
         "ID":46934,
-        "Name":null
+        "Name":"피의 검"
     },
     {
         "ID":46935,
-        "Name":null
+        "Name":"맹독의 손길"
     },
     {
         "ID":46936,
-        "Name":null
+        "Name":"현혹의 안개"
     },
     {
         "ID":46937,
-        "Name":null
+        "Name":"파열"
     },
     {
         "ID":46938,
-        "Name":null
+        "Name":"파열"
     },
     {
         "ID":46939,
@@ -187833,247 +187833,247 @@
     },
     {
         "ID":46959,
-        "Name":null
+        "Name":"1등급 마수 포션"
     },
     {
         "ID":46960,
-        "Name":null
+        "Name":"2등급 마수 포션"
     },
     {
         "ID":46961,
-        "Name":null
+        "Name":"3등급 마수 포션"
     },
     {
         "ID":46962,
-        "Name":null
+        "Name":"4등급 마수 포션"
     },
     {
         "ID":46963,
-        "Name":null
+        "Name":"1등급 마수 파우더"
     },
     {
         "ID":46964,
-        "Name":null
+        "Name":"2등급 마수 파우더"
     },
     {
         "ID":46965,
-        "Name":null
+        "Name":"3등급 마수 파우더"
     },
     {
         "ID":46966,
-        "Name":null
+        "Name":"마수 해독제"
     },
     {
         "ID":46967,
-        "Name":null
+        "Name":"마수 금침"
     },
     {
         "ID":46968,
-        "Name":null
+        "Name":"마수 안약"
     },
     {
         "ID":46969,
-        "Name":null
+        "Name":"1등급 마수 항독약"
     },
     {
         "ID":46970,
-        "Name":null
+        "Name":"2등급 마수 항독약"
     },
     {
         "ID":46971,
-        "Name":null
+        "Name":"1등급 마수 항마비약"
     },
     {
         "ID":46972,
-        "Name":null
+        "Name":"2등급 마수 항마비약"
     },
     {
         "ID":46973,
-        "Name":null
+        "Name":"1등급 마수 항실명약"
     },
     {
         "ID":46974,
-        "Name":null
+        "Name":"2등급 마수 항실명약"
     },
     {
         "ID":46975,
-        "Name":null
+        "Name":"1등급 마수 항석화약"
     },
     {
         "ID":46976,
-        "Name":null
+        "Name":"2등급 마수 항석화약"
     },
     {
         "ID":46977,
-        "Name":null
+        "Name":"1등급 마수 항수면약"
     },
     {
         "ID":46978,
-        "Name":null
+        "Name":"2등급 마수 항수면약"
     },
     {
         "ID":46979,
-        "Name":null
+        "Name":"재소환 호루라기"
     },
     {
         "ID":46980,
-        "Name":null
+        "Name":"마수 연막탄"
     },
     {
         "ID":46981,
-        "Name":null
+        "Name":"1등급 마수 리레이저"
     },
     {
         "ID":46982,
-        "Name":null
+        "Name":"2등급 마수 리레이저"
     },
     {
         "ID":46983,
-        "Name":null
+        "Name":"도적의 눈"
     },
     {
         "ID":46984,
-        "Name":null
+        "Name":"상인의 눈"
     },
     {
         "ID":46985,
-        "Name":null
+        "Name":"마수 경화약"
     },
     {
         "ID":46986,
-        "Name":null
+        "Name":"마수 단축약"
     },
     {
         "ID":46987,
-        "Name":null
+        "Name":"마수 괴력약"
     },
     {
         "ID":46988,
-        "Name":null
+        "Name":"마수 마력약"
     },
     {
         "ID":46989,
-        "Name":null
+        "Name":"마수 특공약"
     },
     {
         "ID":46990,
-        "Name":null
+        "Name":"마수 민첩약"
     },
     {
         "ID":46991,
-        "Name":null
+        "Name":"마수 체력약"
     },
     {
         "ID":46992,
-        "Name":null
+        "Name":"마수 준족약"
     },
     {
         "ID":46993,
-        "Name":null
+        "Name":"마수 깃털"
     },
     {
         "ID":46994,
-        "Name":null
+        "Name":"1등급 마수 불 저항약"
     },
     {
         "ID":46995,
-        "Name":null
+        "Name":"2등급 마수 불 저항약"
     },
     {
         "ID":46996,
-        "Name":null
+        "Name":"1등급 마수 물 저항약"
     },
     {
         "ID":46997,
-        "Name":null
+        "Name":"2등급 마수 물 저항약"
     },
     {
         "ID":46998,
-        "Name":null
+        "Name":"1등급 마수 땅 저항약"
     },
     {
         "ID":46999,
-        "Name":null
+        "Name":"2등급 마수 땅 저항약"
     },
     {
         "ID":47000,
-        "Name":null
+        "Name":"1등급 마수 번개 저항약"
     },
     {
         "ID":47001,
-        "Name":null
+        "Name":"2등급 마수 번개 저항약"
     },
     {
         "ID":47002,
-        "Name":null
+        "Name":"1등급 마수 바람 저항약"
     },
     {
         "ID":47003,
-        "Name":null
+        "Name":"2등급 마수 바람 저항약"
     },
     {
         "ID":47004,
-        "Name":null
+        "Name":"1등급 마수 얼음 저항약"
     },
     {
         "ID":47005,
-        "Name":null
+        "Name":"2등급 마수 얼음 저항약"
     },
     {
         "ID":47006,
-        "Name":null
+        "Name":"불 송곳니"
     },
     {
         "ID":47007,
-        "Name":null
+        "Name":"얼음 송곳니"
     },
     {
         "ID":47008,
-        "Name":null
+        "Name":"물 송곳니"
     },
     {
         "ID":47009,
-        "Name":null
+        "Name":"번개 송곳니"
     },
     {
         "ID":47010,
-        "Name":null
+        "Name":"땅 송곳니"
     },
     {
         "ID":47011,
-        "Name":null
+        "Name":"바람 송곳니"
     },
     {
         "ID":47012,
-        "Name":null
+        "Name":"흡혈귀 송곳니"
     },
     {
         "ID":47013,
-        "Name":null
+        "Name":"마수 흡혈약"
     },
     {
         "ID":47014,
-        "Name":null
+        "Name":"리플렉트의 서"
     },
     {
         "ID":47015,
-        "Name":null
+        "Name":"블링크의 서"
     },
     {
         "ID":47016,
-        "Name":null
+        "Name":"시간의 모래"
     },
     {
         "ID":47017,
-        "Name":null
+        "Name":"프티 메테오"
     },
     {
         "ID":47018,
-        "Name":null
+        "Name":"마수 포션 키트"
     },
     {
         "ID":47019,
-        "Name":null
+        "Name":"마수 치료제 키트"
     },
     {
         "ID":47020,
@@ -188365,11 +188365,11 @@
     },
     {
         "ID":47092,
-        "Name":null
+        "Name":"능력 해방"
     },
     {
         "ID":47093,
-        "Name":null
+        "Name":"궁극기"
     },
     {
         "ID":47094,
@@ -188949,35 +188949,35 @@
     },
     {
         "ID":47238,
-        "Name":null
+        "Name":"빌리기"
     },
     {
         "ID":47239,
-        "Name":null
+        "Name":"빌리기"
     },
     {
         "ID":47240,
-        "Name":null
+        "Name":"빌리기"
     },
     {
         "ID":47241,
-        "Name":null
+        "Name":"빌리기"
     },
     {
         "ID":47242,
-        "Name":null
+        "Name":"빌리기"
     },
     {
         "ID":47243,
-        "Name":null
+        "Name":"빌리기"
     },
     {
         "ID":47244,
-        "Name":null
+        "Name":"빌리기"
     },
     {
         "ID":47245,
-        "Name":null
+        "Name":"빌리기"
     },
     {
         "ID":47246,
@@ -192485,19 +192485,19 @@
     },
     {
         "ID":48122,
-        "Name":null
+        "Name":"외팔 내리치기"
     },
     {
         "ID":48123,
-        "Name":null
+        "Name":"외팔 내리치기"
     },
     {
         "ID":48124,
-        "Name":null
+        "Name":"외팔 내리치기"
     },
     {
         "ID":48125,
-        "Name":null
+        "Name":"외팔 내리치기"
     },
     {
         "ID":48126,
@@ -192505,7 +192505,7 @@
     },
     {
         "ID":48127,
-        "Name":null
+        "Name":"돌진 내리치기"
     },
     {
         "ID":48128,
@@ -192513,31 +192513,31 @@
     },
     {
         "ID":48129,
-        "Name":null
+        "Name":"야성의 돌진"
     },
     {
         "ID":48130,
-        "Name":null
+        "Name":"야성의 돌진"
     },
     {
         "ID":48131,
-        "Name":null
+        "Name":"외팔 내리치기"
     },
     {
         "ID":48132,
-        "Name":null
+        "Name":"외팔 내리치기"
     },
     {
         "ID":48133,
-        "Name":null
+        "Name":"외팔 내리치기"
     },
     {
         "ID":48134,
-        "Name":null
+        "Name":"외팔 내리치기"
     },
     {
         "ID":48135,
-        "Name":null
+        "Name":"도약 내리치기"
     },
     {
         "ID":48136,
@@ -192545,147 +192545,147 @@
     },
     {
         "ID":48137,
-        "Name":null
+        "Name":"도약 내리치기"
     },
     {
         "ID":48138,
-        "Name":null
+        "Name":"치명적 구속"
     },
     {
         "ID":48139,
-        "Name":null
+        "Name":"발톱과 꼬리"
     },
     {
         "ID":48140,
-        "Name":null
+        "Name":"발톱과 꼬리"
     },
     {
         "ID":48141,
-        "Name":null
+        "Name":"발톱과 꼬리"
     },
     {
         "ID":48142,
-        "Name":null
+        "Name":"발톱과 꼬리"
     },
     {
         "ID":48143,
-        "Name":null
+        "Name":"죽음의 광선"
     },
     {
         "ID":48144,
-        "Name":null
+        "Name":"암흑 광선"
     },
     {
         "ID":48145,
-        "Name":null
+        "Name":"암흑 광선"
     },
     {
         "ID":48146,
-        "Name":null
+        "Name":"폭발"
     },
     {
         "ID":48147,
-        "Name":null
+        "Name":"폭발"
     },
     {
         "ID":48148,
-        "Name":null
+        "Name":"폭발"
     },
     {
         "ID":48149,
-        "Name":null
+        "Name":"에테르의 틈"
     },
     {
         "ID":48150,
-        "Name":null
+        "Name":"에테르파"
     },
     {
         "ID":48151,
-        "Name":null
+        "Name":"소환"
     },
     {
         "ID":48152,
-        "Name":null
+        "Name":"죽음의 시선"
     },
     {
         "ID":48153,
-        "Name":null
+        "Name":"죽음의 시선"
     },
     {
         "ID":48154,
-        "Name":null
+        "Name":"재앙의 중심"
     },
     {
         "ID":48155,
-        "Name":null
+        "Name":"재앙의 중심"
     },
     {
         "ID":48156,
-        "Name":null
+        "Name":"재앙의 고리"
     },
     {
         "ID":48157,
-        "Name":null
+        "Name":"재앙의 고리"
     },
     {
         "ID":48158,
-        "Name":null
+        "Name":"이중 재앙의 중심"
     },
     {
         "ID":48159,
-        "Name":null
+        "Name":"재앙의 중심"
     },
     {
         "ID":48160,
-        "Name":null
+        "Name":"이중 재앙의 중심"
     },
     {
         "ID":48161,
-        "Name":null
+        "Name":"재앙의 고리"
     },
     {
         "ID":48162,
-        "Name":null
+        "Name":"이중 재앙의 고리"
     },
     {
         "ID":48163,
-        "Name":null
+        "Name":"재앙의 고리"
     },
     {
         "ID":48164,
-        "Name":null
+        "Name":"이중 재앙의 고리"
     },
     {
         "ID":48165,
-        "Name":null
+        "Name":"재앙의 중심"
     },
     {
         "ID":48166,
-        "Name":null
+        "Name":"폭풍 영역"
     },
     {
         "ID":48167,
-        "Name":null
+        "Name":"돌풍"
     },
     {
         "ID":48168,
-        "Name":null
+        "Name":"태풍"
     },
     {
         "ID":48169,
-        "Name":null
+        "Name":"맹렬한 바람"
     },
     {
         "ID":48170,
-        "Name":null
+        "Name":"맹렬한 바람"
     },
     {
         "ID":48171,
-        "Name":null
+        "Name":"지옥의 늪"
     },
     {
         "ID":48172,
-        "Name":null
+        "Name":"지옥의 늪"
     },
     {
         "ID":48173,
@@ -192693,59 +192693,59 @@
     },
     {
         "ID":48174,
-        "Name":null
+        "Name":"작열지옥"
     },
     {
         "ID":48175,
-        "Name":null
+        "Name":"작열지옥"
     },
     {
         "ID":48176,
-        "Name":null
+        "Name":"폭풍의 궤적"
     },
     {
         "ID":48177,
-        "Name":null
+        "Name":"폭풍의 궤적"
     },
     {
         "ID":48178,
-        "Name":null
+        "Name":"폭풍의 궤적"
     },
     {
         "ID":48179,
-        "Name":null
+        "Name":"ウィンドスパイラル"
     },
     {
         "ID":48180,
-        "Name":null
+        "Name":"ウィンドスパイラル"
     },
     {
         "ID":48181,
-        "Name":null
+        "Name":"죽음 충동"
     },
     {
         "ID":48182,
-        "Name":null
+        "Name":"죽음 충동"
     },
     {
         "ID":48183,
-        "Name":null
+        "Name":"악마의 안개"
     },
     {
         "ID":48184,
-        "Name":null
+        "Name":"사령 침잠"
     },
     {
         "ID":48185,
-        "Name":null
+        "Name":"암흑 구체"
     },
     {
         "ID":48186,
-        "Name":null
+        "Name":"암흑 구체"
     },
     {
         "ID":48187,
-        "Name":null
+        "Name":"정신 장악"
     },
     {
         "ID":48188,
@@ -192753,127 +192753,127 @@
     },
     {
         "ID":48189,
-        "Name":null
+        "Name":"1000톤즈 후려치기"
     },
     {
         "ID":48190,
-        "Name":null
+        "Name":"1000톤즈 후려치기"
     },
     {
         "ID":48191,
-        "Name":null
+        "Name":"1000톤즈 후려치기"
     },
     {
         "ID":48192,
-        "Name":null
+        "Name":"1000톤즈 후려치기"
     },
     {
         "ID":48193,
-        "Name":null
+        "Name":"1111톤즈 휘두르기"
     },
     {
         "ID":48194,
-        "Name":null
+        "Name":"1111톤즈 휘두르기"
     },
     {
         "ID":48195,
-        "Name":null
+        "Name":"1111톤즈 휘두르기"
     },
     {
         "ID":48196,
-        "Name":null
+        "Name":"1111톤즈 휘두르기"
     },
     {
         "ID":48197,
-        "Name":null
+        "Name":"10톤즈 발구르기"
     },
     {
         "ID":48198,
-        "Name":null
+        "Name":"10톤즈 발구르기"
     },
     {
         "ID":48199,
-        "Name":null
+        "Name":"충격파"
     },
     {
         "ID":48200,
-        "Name":null
+        "Name":"10톤즈 발구르기"
     },
     {
         "ID":48201,
-        "Name":null
+        "Name":"10톤즈 발구르기"
     },
     {
         "ID":48202,
-        "Name":null
+        "Name":"충격파"
     },
     {
         "ID":48203,
-        "Name":null
+        "Name":"응원"
     },
     {
         "ID":48204,
-        "Name":null
+        "Name":"100톤즈 베기"
     },
     {
         "ID":48205,
-        "Name":null
+        "Name":"끝없는 휘두르기"
     },
     {
         "ID":48206,
-        "Name":null
+        "Name":"끝없는 휘두르기"
     },
     {
         "ID":48207,
-        "Name":null
+        "Name":"끝없는 휘두르기"
     },
     {
         "ID":48208,
-        "Name":null
+        "Name":"끝없는 후려치기"
     },
     {
         "ID":48209,
-        "Name":null
+        "Name":"끝없는 후려치기"
     },
     {
         "ID":48210,
-        "Name":null
+        "Name":"끝없는 후려치기"
     },
     {
         "ID":48211,
-        "Name":null
+        "Name":"끝없는 후려치기"
     },
     {
         "ID":48212,
-        "Name":null
+        "Name":"끝없는 후려치기"
     },
     {
         "ID":48213,
-        "Name":null
+        "Name":"우렁찬 외침"
     },
     {
         "ID":48214,
-        "Name":null
+        "Name":"끝없는 베기"
     },
     {
         "ID":48215,
-        "Name":null
+        "Name":"끝없는 베기"
     },
     {
         "ID":48216,
-        "Name":null
+        "Name":"끝없는 베기"
     },
     {
         "ID":48217,
-        "Name":null
+        "Name":"어둠의 불기둥"
     },
     {
         "ID":48218,
-        "Name":null
+        "Name":"격노의 일격"
     },
     {
         "ID":48219,
-        "Name":null
+        "Name":"격노의 일격"
     },
     {
         "ID":48220,
@@ -192881,91 +192881,91 @@
     },
     {
         "ID":48221,
-        "Name":null
+        "Name":"완력 강화"
     },
     {
         "ID":48222,
-        "Name":null
+        "Name":"보이드 파이가"
     },
     {
         "ID":48223,
-        "Name":null
+        "Name":"힐난"
     },
     {
         "ID":48224,
-        "Name":null
+        "Name":"파고들기"
     },
     {
         "ID":48225,
-        "Name":null
+        "Name":"모래기둥"
     },
     {
         "ID":48226,
-        "Name":null
+        "Name":"모래 숨결"
     },
     {
         "ID":48227,
-        "Name":null
+        "Name":"모래 숨결"
     },
     {
         "ID":48228,
-        "Name":null
+        "Name":"고브류 회전검"
     },
     {
         "ID":48229,
-        "Name":null
+        "Name":"고브류 회전검"
     },
     {
         "ID":48230,
-        "Name":null
+        "Name":"고브류 회전검"
     },
     {
         "ID":48231,
-        "Name":null
+        "Name":"고브류 회전검"
     },
     {
         "ID":48232,
-        "Name":null
+        "Name":"고블린 망치"
     },
     {
         "ID":48233,
-        "Name":null
+        "Name":"고블린 망치"
     },
     {
         "ID":48234,
-        "Name":null
+        "Name":"고브고브 폭탄"
     },
     {
         "ID":48235,
-        "Name":null
+        "Name":"폭발"
     },
     {
         "ID":48236,
-        "Name":null
+        "Name":"폭발"
     },
     {
         "ID":48237,
-        "Name":null
+        "Name":"폭발"
     },
     {
         "ID":48238,
-        "Name":null
+        "Name":"폭발"
     },
     {
         "ID":48239,
-        "Name":null
+        "Name":"지진"
     },
     {
         "ID":48240,
-        "Name":null
+        "Name":"지진"
     },
     {
         "ID":48241,
-        "Name":null
+        "Name":"할 수 있어고브"
     },
     {
         "ID":48242,
-        "Name":null
+        "Name":"힘을 빌릴 거야고브"
     },
     {
         "ID":48243,
@@ -192985,7 +192985,7 @@
     },
     {
         "ID":48247,
-        "Name":null
+        "Name":"보이드 파라이즈"
     },
     {
         "ID":48248,
@@ -193485,7 +193485,7 @@
     },
     {
         "ID":48372,
-        "Name":null
+        "Name":"아이즈 온 미"
     },
     {
         "ID":48373,
@@ -193501,31 +193501,31 @@
     },
     {
         "ID":48376,
-        "Name":null
+        "Name":"마수 괴력 극약"
     },
     {
         "ID":48377,
-        "Name":null
+        "Name":"마수 마력 극약"
     },
     {
         "ID":48378,
-        "Name":null
+        "Name":"마수 특공 극약"
     },
     {
         "ID":48379,
-        "Name":null
+        "Name":"마수 민첩 극약"
     },
     {
         "ID":48380,
-        "Name":null
+        "Name":"마수 체력 극약"
     },
     {
         "ID":48381,
-        "Name":null
+        "Name":"마법 연성의 서"
     },
     {
         "ID":48382,
-        "Name":null
+        "Name":"강철 화살의 서"
     },
     {
         "ID":48383,
@@ -193837,35 +193837,35 @@
     },
     {
         "ID":48460,
-        "Name":null
+        "Name":"환영 생성"
     },
     {
         "ID":48461,
-        "Name":null
+        "Name":"발푀드르"
     },
     {
         "ID":48462,
-        "Name":null
+        "Name":"발푀드르"
     },
     {
         "ID":48463,
-        "Name":null
+        "Name":"수확자의 위협"
     },
     {
         "ID":48464,
-        "Name":null
+        "Name":"수확자의 위협"
     },
     {
         "ID":48465,
-        "Name":null
+        "Name":"幻影生成"
     },
     {
         "ID":48466,
-        "Name":null
+        "Name":"ヴァルファズル"
     },
     {
         "ID":48467,
-        "Name":null
+        "Name":"ヴァルファズル"
     },
     {
         "ID":48468,
@@ -193873,23 +193873,23 @@
     },
     {
         "ID":48469,
-        "Name":null
+        "Name":"ソウルギャザー"
     },
     {
         "ID":48470,
-        "Name":null
+        "Name":"ソウルギャザー"
     },
     {
         "ID":48471,
-        "Name":null
+        "Name":"분쇄의 검"
     },
     {
         "ID":48472,
-        "Name":null
+        "Name":"강철의 검격"
     },
     {
         "ID":48473,
-        "Name":null
+        "Name":"강철의 검격"
     },
     {
         "ID":48474,
@@ -193905,7 +193905,7 @@
     },
     {
         "ID":48477,
-        "Name":null
+        "Name":"머리 휘두르기"
     },
     {
         "ID":48478,
@@ -193913,23 +193913,23 @@
     },
     {
         "ID":48479,
-        "Name":null
+        "Name":"만뢰"
     },
     {
         "ID":48480,
-        "Name":null
+        "Name":"대해일"
     },
     {
         "ID":48481,
-        "Name":null
+        "Name":"대해일"
     },
     {
         "ID":48482,
-        "Name":null
+        "Name":"워터라"
     },
     {
         "ID":48483,
-        "Name":null
+        "Name":"워터라"
     },
     {
         "ID":48484,
@@ -193937,7 +193937,7 @@
     },
     {
         "ID":48485,
-        "Name":null
+        "Name":"공포의 물줄기"
     },
     {
         "ID":48486,
@@ -193945,115 +193945,115 @@
     },
     {
         "ID":48487,
-        "Name":null
+        "Name":"부화"
     },
     {
         "ID":48488,
-        "Name":null
+        "Name":"딱딱한 부리"
     },
     {
         "ID":48489,
-        "Name":null
+        "Name":"부식성 토사물"
     },
     {
         "ID":48490,
-        "Name":null
+        "Name":"광란"
     },
     {
         "ID":48491,
-        "Name":null
+        "Name":"십자 강풍"
     },
     {
         "ID":48492,
-        "Name":null
+        "Name":"십자 강풍"
     },
     {
         "ID":48493,
-        "Name":null
+        "Name":"전방 맹습 난류"
     },
     {
         "ID":48494,
-        "Name":null
+        "Name":"후방 맹습 난류"
     },
     {
         "ID":48495,
-        "Name":null
+        "Name":"강습 활공"
     },
     {
         "ID":48496,
-        "Name":null
+        "Name":"전방 난류"
     },
     {
         "ID":48497,
-        "Name":null
+        "Name":"전방 난류"
     },
     {
         "ID":48498,
-        "Name":null
+        "Name":"후방 난류"
     },
     {
         "ID":48499,
-        "Name":null
+        "Name":"후방 난류"
     },
     {
         "ID":48500,
-        "Name":null
+        "Name":"꽁무니바람"
     },
     {
         "ID":48501,
-        "Name":null
+        "Name":"꽁무니바람"
     },
     {
         "ID":48502,
-        "Name":null
+        "Name":"꽁무니바람"
     },
     {
         "ID":48503,
-        "Name":null
+        "Name":"꽁무니바람"
     },
     {
         "ID":48504,
-        "Name":null
+        "Name":"마수의 포효"
     },
     {
         "ID":48505,
-        "Name":null
+        "Name":"중앙 폭발"
     },
     {
         "ID":48506,
-        "Name":null
+        "Name":"중앙 폭발"
     },
     {
         "ID":48507,
-        "Name":null
+        "Name":"외곽 폭발"
     },
     {
         "ID":48508,
-        "Name":null
+        "Name":"외곽 폭발"
     },
     {
         "ID":48509,
-        "Name":null
+        "Name":"마안 이식"
     },
     {
         "ID":48510,
-        "Name":null
+        "Name":"악마의 의안"
     },
     {
         "ID":48511,
-        "Name":null
+        "Name":"간사한 빛"
     },
     {
         "ID":48512,
-        "Name":null
+        "Name":"간사한 빛"
     },
     {
         "ID":48513,
-        "Name":null
+        "Name":"저주안"
     },
     {
         "ID":48514,
-        "Name":null
+        "Name":"저주안"
     },
     {
         "ID":48515,
@@ -194065,15 +194065,15 @@
     },
     {
         "ID":48517,
-        "Name":null
+        "Name":"고블린 돌진"
     },
     {
         "ID":48518,
-        "Name":null
+        "Name":"폭탄 던지기"
     },
     {
         "ID":48519,
-        "Name":null
+        "Name":"폭탄 던지기"
     },
     {
         "ID":48520,
@@ -194209,47 +194209,47 @@
     },
     {
         "ID":48553,
-        "Name":null
+        "Name":"흐르는 대지"
     },
     {
         "ID":48554,
-        "Name":null
+        "Name":"낙석"
     },
     {
         "ID":48555,
-        "Name":null
+        "Name":"낙석"
     },
     {
         "ID":48556,
-        "Name":null
+        "Name":"흐르는 대지"
     },
     {
         "ID":48557,
-        "Name":null
+        "Name":"요동치는 대지"
     },
     {
         "ID":48558,
-        "Name":null
+        "Name":"요동치는 대지"
     },
     {
         "ID":48559,
-        "Name":null
+        "Name":"일렁이는 대지"
     },
     {
         "ID":48560,
-        "Name":null
+        "Name":"일렁이는 대지"
     },
     {
         "ID":48561,
-        "Name":null
+        "Name":"모래바람"
     },
     {
         "ID":48562,
-        "Name":null
+        "Name":"폭발"
     },
     {
         "ID":48563,
-        "Name":null
+        "Name":"고통의 노래"
     },
     {
         "ID":48564,
@@ -194257,103 +194257,103 @@
     },
     {
         "ID":48565,
-        "Name":null
+        "Name":"혼란의 노래"
     },
     {
         "ID":48566,
-        "Name":null
+        "Name":"혼란의 노래"
     },
     {
         "ID":48567,
-        "Name":null
+        "Name":"소환"
     },
     {
         "ID":48568,
-        "Name":null
+        "Name":"물귀신 작전"
     },
     {
         "ID":48569,
-        "Name":null
+        "Name":"급습"
     },
     {
         "ID":48570,
-        "Name":null
+        "Name":"급습"
     },
     {
         "ID":48571,
-        "Name":null
+        "Name":"유도의 노래"
     },
     {
         "ID":48572,
-        "Name":null
+        "Name":"망자의 노래"
     },
     {
         "ID":48573,
-        "Name":null
+        "Name":"망자의 노래"
     },
     {
         "ID":48574,
-        "Name":null
+        "Name":"망자의 노래"
     },
     {
         "ID":48575,
-        "Name":null
+        "Name":"망자의 노래"
     },
     {
         "ID":48576,
-        "Name":null
+        "Name":"아득한 소리"
     },
     {
         "ID":48577,
-        "Name":null
+        "Name":"폭발"
     },
     {
         "ID":48578,
-        "Name":null
+        "Name":"긴급 소집"
     },
     {
         "ID":48579,
-        "Name":null
+        "Name":"치유의 물"
     },
     {
         "ID":48580,
-        "Name":null
+        "Name":"바늘 ?개"
     },
     {
         "ID":48581,
-        "Name":null
+        "Name":"바늘 ?개"
     },
     {
         "ID":48582,
-        "Name":null
+        "Name":"선인장 방패"
     },
     {
         "ID":48583,
-        "Name":null
+        "Name":"바늘 떨어뜨리기"
     },
     {
         "ID":48584,
-        "Name":null
+        "Name":"바늘 떨어뜨리기"
     },
     {
         "ID":48585,
-        "Name":null
+        "Name":"바늘 흩뿌리기"
     },
     {
         "ID":48586,
-        "Name":null
+        "Name":"바늘 흩뿌리기"
     },
     {
         "ID":48587,
-        "Name":null
+        "Name":"바늘 흩뿌리기"
     },
     {
         "ID":48588,
-        "Name":null
+        "Name":"바늘 흩뿌리기"
     },
     {
         "ID":48589,
-        "Name":null
+        "Name":"바늘 흩뿌리기"
     },
     {
         "ID":48590,
@@ -194361,79 +194361,79 @@
     },
     {
         "ID":48591,
-        "Name":null
+        "Name":"폭발의 마력날"
     },
     {
         "ID":48592,
-        "Name":null
+        "Name":"폭발의 마력날"
     },
     {
         "ID":48593,
-        "Name":null
+        "Name":"폭발의 마력날"
     },
     {
         "ID":48594,
-        "Name":null
+        "Name":"폭발의 마력날"
     },
     {
         "ID":48595,
-        "Name":null
+        "Name":"폭발의 마력날"
     },
     {
         "ID":48596,
-        "Name":null
+        "Name":"폭발의 마력날"
     },
     {
         "ID":48597,
-        "Name":null
+        "Name":"마력 폭발"
     },
     {
         "ID":48598,
-        "Name":null
+        "Name":"폭발의 마력날"
     },
     {
         "ID":48599,
-        "Name":null
+        "Name":"탐식의 압살"
     },
     {
         "ID":48600,
-        "Name":null
+        "Name":"탐식의 압살"
     },
     {
         "ID":48601,
-        "Name":null
+        "Name":"폭발의 마력날"
     },
     {
         "ID":48602,
-        "Name":null
+        "Name":"탐식의 분쇄"
     },
     {
         "ID":48603,
-        "Name":null
+        "Name":"탐식의 분쇄"
     },
     {
         "ID":48604,
-        "Name":null
+        "Name":"수직 강타"
     },
     {
         "ID":48605,
-        "Name":null
+        "Name":"수직 강타"
     },
     {
         "ID":48606,
-        "Name":null
+        "Name":"난폭한 기운"
     },
     {
         "ID":48607,
-        "Name":null
+        "Name":"난폭한 기운"
     },
     {
         "ID":48608,
-        "Name":null
+        "Name":"마력날 결계"
     },
     {
         "ID":48609,
-        "Name":null
+        "Name":"구속"
     },
     {
         "ID":48610,
@@ -194441,67 +194441,67 @@
     },
     {
         "ID":48611,
-        "Name":null
+        "Name":"극독의 마력날"
     },
     {
         "ID":48612,
-        "Name":null
+        "Name":"지배의 마력날"
     },
     {
         "ID":48613,
-        "Name":null
+        "Name":"지배의 마력날"
     },
     {
         "ID":48614,
-        "Name":null
+        "Name":"지배의 마력날"
     },
     {
         "ID":48615,
-        "Name":null
+        "Name":"화염의 마력날"
     },
     {
         "ID":48616,
-        "Name":null
+        "Name":"화염의 마력날"
     },
     {
         "ID":48617,
-        "Name":null
+        "Name":"화염의 마력날"
     },
     {
         "ID":48618,
-        "Name":null
+        "Name":"화염의 마력날"
     },
     {
         "ID":48619,
-        "Name":null
+        "Name":"마력날의 폭염"
     },
     {
         "ID":48620,
-        "Name":null
+        "Name":"벼락"
     },
     {
         "ID":48621,
-        "Name":null
+        "Name":"블리자드"
     },
     {
         "ID":48622,
-        "Name":null
+        "Name":"파이어"
     },
     {
         "ID":48623,
-        "Name":null
+        "Name":"선더"
     },
     {
         "ID":48624,
-        "Name":null
+        "Name":"에어로"
     },
     {
         "ID":48625,
-        "Name":null
+        "Name":"스톤"
     },
     {
         "ID":48626,
-        "Name":null
+        "Name":"워터"
     },
     {
         "ID":48627,
@@ -194613,35 +194613,35 @@
     },
     {
         "ID":48654,
-        "Name":null
+        "Name":"낙하"
     },
     {
         "ID":48655,
-        "Name":null
+        "Name":"낙하"
     },
     {
         "ID":48656,
-        "Name":null
+        "Name":"낙하"
     },
     {
         "ID":48657,
-        "Name":null
+        "Name":"퀘이가의 장"
     },
     {
         "ID":48658,
-        "Name":null
+        "Name":"워터가의 장"
     },
     {
         "ID":48659,
-        "Name":null
+        "Name":"마법 망치의 장"
     },
     {
         "ID":48660,
-        "Name":null
+        "Name":"마법 망치의 장"
     },
     {
         "ID":48661,
-        "Name":null
+        "Name":"도서 선정"
     },
     {
         "ID":48662,
@@ -194653,99 +194653,99 @@
     },
     {
         "ID":48664,
-        "Name":null
+        "Name":"마력 방출"
     },
     {
         "ID":48665,
-        "Name":null
+        "Name":"마력 방출"
     },
     {
         "ID":48666,
-        "Name":null
+        "Name":"바람을 부르는 깃털"
     },
     {
         "ID":48667,
-        "Name":null
+        "Name":"에어로가"
     },
     {
         "ID":48668,
-        "Name":null
+        "Name":"정신집중"
     },
     {
         "ID":48669,
-        "Name":null
+        "Name":"다크라의 장"
     },
     {
         "ID":48670,
-        "Name":null
+        "Name":"싹틔우기"
     },
     {
         "ID":48671,
-        "Name":null
+        "Name":"비릿한 입냄새"
     },
     {
         "ID":48672,
-        "Name":null
+        "Name":"비릿한 입냄새"
     },
     {
         "ID":48673,
-        "Name":null
+        "Name":"비릿한 입냄새"
     },
     {
         "ID":48674,
-        "Name":null
+        "Name":"비릿한 입냄새"
     },
     {
         "ID":48675,
-        "Name":null
+        "Name":"비릿한 입냄새"
     },
     {
         "ID":48676,
-        "Name":null
+        "Name":"흙내 숨결"
     },
     {
         "ID":48677,
-        "Name":null
+        "Name":"흙내 숨결"
     },
     {
         "ID":48678,
-        "Name":null
+        "Name":"흙내 숨결"
     },
     {
         "ID":48679,
-        "Name":null
+        "Name":"산성 안개"
     },
     {
         "ID":48680,
-        "Name":null
+        "Name":"점착액 투하"
     },
     {
         "ID":48681,
-        "Name":null
+        "Name":"꼬챙이"
     },
     {
         "ID":48682,
-        "Name":null
+        "Name":"꼬챙이"
     },
     {
         "ID":48683,
-        "Name":null
+        "Name":"향기의 덫"
     },
     {
         "ID":48684,
-        "Name":null
+        "Name":"향기의 덫"
     },
     {
         "ID":48685,
-        "Name":null
+        "Name":"포식"
     },
     {
         "ID":48686,
-        "Name":null
+        "Name":"방출"
     },
     {
         "ID":48687,
-        "Name":null
+        "Name":"가시 묘목"
     },
     {
         "ID":48688,
@@ -194753,27 +194753,27 @@
     },
     {
         "ID":48689,
-        "Name":null
+        "Name":"마지막 벌침"
     },
     {
         "ID":48690,
-        "Name":null
+        "Name":"썩은 냄새"
     },
     {
         "ID":48691,
-        "Name":null
+        "Name":"썩은 냄새"
     },
     {
         "ID":48692,
-        "Name":null
+        "Name":"산성비"
     },
     {
         "ID":48693,
-        "Name":null
+        "Name":"산성비"
     },
     {
         "ID":48694,
-        "Name":null
+        "Name":"산성비"
     },
     {
         "ID":48695,
@@ -194781,23 +194781,23 @@
     },
     {
         "ID":48696,
-        "Name":null
+        "Name":"서릿발 고통"
     },
     {
         "ID":48697,
-        "Name":null
+        "Name":"서릿발 고통"
     },
     {
         "ID":48698,
-        "Name":null
+        "Name":"서릿발 고통"
     },
     {
         "ID":48699,
-        "Name":null
+        "Name":"서릿발 고통"
     },
     {
         "ID":48700,
-        "Name":null
+        "Name":"인두질"
     },
     {
         "ID":48701,
@@ -194809,119 +194809,119 @@
     },
     {
         "ID":48703,
-        "Name":null
+        "Name":"인두질"
     },
     {
         "ID":48704,
-        "Name":null
+        "Name":"인두질"
     },
     {
         "ID":48705,
-        "Name":null
+        "Name":"착지"
     },
     {
         "ID":48706,
-        "Name":null
+        "Name":"착지"
     },
     {
         "ID":48707,
-        "Name":null
+        "Name":"쇠퇴의 시대"
     },
     {
         "ID":48708,
-        "Name":null
+        "Name":"쇠퇴의 시대"
     },
     {
         "ID":48709,
-        "Name":null
+        "Name":"분노의 서릿발"
     },
     {
         "ID":48710,
-        "Name":null
+        "Name":"얼음판"
     },
     {
         "ID":48711,
-        "Name":null
+        "Name":"얼음판"
     },
     {
         "ID":48712,
-        "Name":null
+        "Name":"얼음판"
     },
     {
         "ID":48713,
-        "Name":null
+        "Name":"독기"
     },
     {
         "ID":48714,
-        "Name":null
+        "Name":"독기"
     },
     {
         "ID":48715,
-        "Name":null
+        "Name":"독기"
     },
     {
         "ID":48716,
-        "Name":null
+        "Name":"폭발"
     },
     {
         "ID":48717,
-        "Name":null
+        "Name":"돌진 연속베기"
     },
     {
         "ID":48718,
-        "Name":null
+        "Name":"돌진 연속베기"
     },
     {
         "ID":48719,
-        "Name":null
+        "Name":"내외측 연속베기"
     },
     {
         "ID":48720,
-        "Name":null
+        "Name":"내외측 연속베기"
     },
     {
         "ID":48721,
-        "Name":null
+        "Name":"내외측 연속베기"
     },
     {
         "ID":48722,
-        "Name":null
+        "Name":"충격파 5연속베기"
     },
     {
         "ID":48723,
-        "Name":null
+        "Name":"충격파 5연속베기"
     },
     {
         "ID":48724,
-        "Name":null
+        "Name":"충격파 5연속베기"
     },
     {
         "ID":48725,
-        "Name":null
+        "Name":"충격파 5연속베기"
     },
     {
         "ID":48726,
-        "Name":null
+        "Name":"황폐화"
     },
     {
         "ID":48727,
-        "Name":null
+        "Name":"황폐화"
     },
     {
         "ID":48728,
-        "Name":null
+        "Name":"역청의 바다"
     },
     {
         "ID":48729,
-        "Name":null
+        "Name":"역청의 바다"
     },
     {
         "ID":48730,
-        "Name":null
+        "Name":"잔혹한 운명"
     },
     {
         "ID":48731,
-        "Name":null
+        "Name":"잔혹한 운명"
     },
     {
         "ID":48732,
@@ -194937,19 +194937,19 @@
     },
     {
         "ID":48735,
-        "Name":null
+        "Name":"자동 대포"
     },
     {
         "ID":48736,
-        "Name":null
+        "Name":"둥글게 휘두르기"
     },
     {
         "ID":48737,
-        "Name":null
+        "Name":"마력 방출"
     },
     {
         "ID":48738,
-        "Name":null
+        "Name":"독소 폭산"
     },
     {
         "ID":48739,
@@ -194957,39 +194957,39 @@
     },
     {
         "ID":48740,
-        "Name":null
+        "Name":"우롱"
     },
     {
         "ID":48741,
-        "Name":null
+        "Name":"●スタン攻撃"
     },
     {
         "ID":48742,
-        "Name":null
+        "Name":"소각 처분"
     },
     {
         "ID":48743,
-        "Name":null
+        "Name":"물체 199"
     },
     {
         "ID":48744,
-        "Name":null
+        "Name":"투과 레이저"
     },
     {
         "ID":48745,
-        "Name":null
+        "Name":"투과 레이저"
     },
     {
         "ID":48746,
-        "Name":null
+        "Name":"화염방사"
     },
     {
         "ID":48747,
-        "Name":null
+        "Name":"화염방사"
     },
     {
         "ID":48748,
-        "Name":null
+        "Name":"바위벽"
     },
     {
         "ID":48749,
@@ -194997,47 +194997,47 @@
     },
     {
         "ID":48750,
-        "Name":null
+        "Name":"충격파"
     },
     {
         "ID":48751,
-        "Name":null
+        "Name":"낙석"
     },
     {
         "ID":48752,
-        "Name":null
+        "Name":"심핵의 빛고리"
     },
     {
         "ID":48753,
-        "Name":null
+        "Name":"심핵의 빛고리"
     },
     {
         "ID":48754,
-        "Name":null
+        "Name":"대지 균열"
     },
     {
         "ID":48755,
-        "Name":null
+        "Name":"대지 균열"
     },
     {
         "ID":48756,
-        "Name":null
+        "Name":"바위 떨어뜨리기"
     },
     {
         "ID":48757,
-        "Name":null
+        "Name":"바위 떨어뜨리기"
     },
     {
         "ID":48758,
-        "Name":null
+        "Name":"바위 떨어뜨리기"
     },
     {
         "ID":48759,
-        "Name":null
+        "Name":"심핵의 빛고리"
     },
     {
         "ID":48760,
-        "Name":null
+        "Name":"대지 균열"
     },
     {
         "ID":48761,
@@ -195045,111 +195045,111 @@
     },
     {
         "ID":48762,
-        "Name":null
+        "Name":"심핵의 빛고리"
     },
     {
         "ID":48763,
-        "Name":null
+        "Name":"심핵의 빛고리"
     },
     {
         "ID":48764,
-        "Name":null
+        "Name":"대지 균열"
     },
     {
         "ID":48765,
-        "Name":null
+        "Name":"대지 균열"
     },
     {
         "ID":48766,
-        "Name":null
+        "Name":"자폭"
     },
     {
         "ID":48767,
-        "Name":null
+        "Name":"바위 돌출"
     },
     {
         "ID":48768,
-        "Name":null
+        "Name":"바위 돌출"
     },
     {
         "ID":48769,
-        "Name":null
+        "Name":"잎사귀 투하"
     },
     {
         "ID":48770,
-        "Name":null
+        "Name":"나뭇가지 폭풍"
     },
     {
         "ID":48771,
-        "Name":null
+        "Name":"나뭇가지 폭풍"
     },
     {
         "ID":48772,
-        "Name":null
+        "Name":"나뭇가지 폭풍"
     },
     {
         "ID":48773,
-        "Name":null
+        "Name":"나뭇가지 폭풍"
     },
     {
         "ID":48774,
-        "Name":null
+        "Name":"나뭇가지 폭풍"
     },
     {
         "ID":48775,
-        "Name":null
+        "Name":"나뭇가지 폭풍"
     },
     {
         "ID":48776,
-        "Name":null
+        "Name":"살랑바람"
     },
     {
         "ID":48777,
-        "Name":null
+        "Name":"살랑바람"
     },
     {
         "ID":48778,
-        "Name":null
+        "Name":"살랑바람"
     },
     {
         "ID":48779,
-        "Name":null
+        "Name":"살랑바람"
     },
     {
         "ID":48780,
-        "Name":null
+        "Name":"살랑바람"
     },
     {
         "ID":48781,
-        "Name":null
+        "Name":"도토리 폭탄"
     },
     {
         "ID":48782,
-        "Name":null
+        "Name":"치유의 수액"
     },
     {
         "ID":48783,
-        "Name":null
+        "Name":"액체 살포"
     },
     {
         "ID":48784,
-        "Name":null
+        "Name":"クリンギングウェブ"
     },
     {
         "ID":48785,
-        "Name":null
+        "Name":"명주실 장막"
     },
     {
         "ID":48786,
-        "Name":null
+        "Name":"양분 흡수"
     },
     {
         "ID":48787,
-        "Name":null
+        "Name":"爆散"
     },
     {
         "ID":48788,
-        "Name":null
+        "Name":"大爆散"
     },
     {
         "ID":48789,
@@ -195157,31 +195157,31 @@
     },
     {
         "ID":48790,
-        "Name":null
+        "Name":"대폭발"
     },
     {
         "ID":48791,
-        "Name":null
+        "Name":"파이라"
     },
     {
         "ID":48792,
-        "Name":null
+        "Name":"자폭"
     },
     {
         "ID":48793,
-        "Name":null
+        "Name":"얼음 보호막"
     },
     {
         "ID":48794,
-        "Name":null
+        "Name":"쇄빙"
     },
     {
         "ID":48795,
-        "Name":null
+        "Name":"유독성 가스"
     },
     {
         "ID":48796,
-        "Name":null
+        "Name":"유독성 가스"
     },
     {
         "ID":48797,
@@ -195189,35 +195189,35 @@
     },
     {
         "ID":48798,
-        "Name":null
+        "Name":"불꽃 회초리"
     },
     {
         "ID":48799,
-        "Name":null
+        "Name":"불꽃 회초리"
     },
     {
         "ID":48800,
-        "Name":null
+        "Name":"멜튼"
     },
     {
         "ID":48801,
-        "Name":null
+        "Name":"멜튼"
     },
     {
         "ID":48802,
-        "Name":null
+        "Name":"대폭발"
     },
     {
         "ID":48803,
-        "Name":null
+        "Name":"맹렬한 분노"
     },
     {
         "ID":48804,
-        "Name":null
+        "Name":"맹렬한 분노"
     },
     {
         "ID":48805,
-        "Name":null
+        "Name":"맹렬한 분노"
     },
     {
         "ID":48806,
@@ -195225,67 +195225,67 @@
     },
     {
         "ID":48807,
-        "Name":null
+        "Name":"유독성 숨결"
     },
     {
         "ID":48808,
-        "Name":null
+        "Name":"유독성 숨결"
     },
     {
         "ID":48809,
-        "Name":null
+        "Name":"유독성 토사물"
     },
     {
         "ID":48810,
-        "Name":null
+        "Name":"유독성 토사물"
     },
     {
         "ID":48811,
-        "Name":null
+        "Name":"연기 토사물"
     },
     {
         "ID":48812,
-        "Name":null
+        "Name":"연기 토사물"
     },
     {
         "ID":48813,
-        "Name":null
+        "Name":"인두질"
     },
     {
         "ID":48814,
-        "Name":null
+        "Name":"인두질"
     },
     {
         "ID":48815,
-        "Name":null
+        "Name":"착지"
     },
     {
         "ID":48816,
-        "Name":null
+        "Name":"착지"
     },
     {
         "ID":48817,
-        "Name":null
+        "Name":"꿈틀거리는 가래침"
     },
     {
         "ID":48818,
-        "Name":null
+        "Name":"꿈틀거리는 가래침"
     },
     {
         "ID":48819,
-        "Name":null
+        "Name":"꿈틀거리는 가래침"
     },
     {
         "ID":48820,
-        "Name":null
+        "Name":"毒素吸収"
     },
     {
         "ID":48821,
-        "Name":null
+        "Name":"대폭산"
     },
     {
         "ID":48822,
-        "Name":null
+        "Name":"타액 발사"
     },
     {
         "ID":48823,
@@ -195305,11 +195305,11 @@
     },
     {
         "ID":48827,
-        "Name":null
+        "Name":"맹렬한 분노"
     },
     {
         "ID":48828,
-        "Name":null
+        "Name":"착지"
     },
     {
         "ID":48829,
@@ -195813,7 +195813,7 @@
     },
     {
         "ID":48954,
-        "Name":null
+        "Name":"마안 이식"
     },
     {
         "ID":48955,
@@ -196213,7 +196213,7 @@
     },
     {
         "ID":49054,
-        "Name":null
+        "Name":"十字風"
     },
     {
         "ID":49055,
@@ -196345,7 +196345,7 @@
     },
     {
         "ID":49087,
-        "Name":"마기 물의 숨결 "
+        "Name":"마기 물의 숨결"
     },
     {
         "ID":49088,
@@ -196737,51 +196737,51 @@
     },
     {
         "ID":49185,
-        "Name":null
+        "Name":"뜨거운 번개"
     },
     {
         "ID":49186,
-        "Name":null
+        "Name":"뜨거운 번개"
     },
     {
         "ID":49187,
-        "Name":null
+        "Name":"마력 공급"
     },
     {
         "ID":49188,
-        "Name":null
+        "Name":"불안정한 블래스터"
     },
     {
         "ID":49189,
-        "Name":null
+        "Name":"불안정한 블래스터"
     },
     {
         "ID":49190,
-        "Name":null
+        "Name":"전하 충격"
     },
     {
         "ID":49191,
-        "Name":null
+        "Name":"전하 충격"
     },
     {
         "ID":49192,
-        "Name":null
+        "Name":"충전 번개"
     },
     {
         "ID":49193,
-        "Name":null
+        "Name":"충전 번개"
     },
     {
         "ID":49194,
-        "Name":null
+        "Name":"직선형 방뢰"
     },
     {
         "ID":49195,
-        "Name":null
+        "Name":"직선형 방뢰"
     },
     {
         "ID":49196,
-        "Name":null
+        "Name":"산산조각"
     },
     {
         "ID":49197,
@@ -196789,79 +196789,79 @@
     },
     {
         "ID":49198,
-        "Name":null
+        "Name":"대폭발"
     },
     {
         "ID":49199,
-        "Name":null
+        "Name":"보이드 워터가"
     },
     {
         "ID":49200,
-        "Name":null
+        "Name":"보이드 워터가"
     },
     {
         "ID":49201,
-        "Name":null
+        "Name":"마법진 전개"
     },
     {
         "ID":49202,
-        "Name":null
+        "Name":"마법진 확장"
     },
     {
         "ID":49203,
-        "Name":null
+        "Name":"어둠의 급류"
     },
     {
         "ID":49204,
-        "Name":null
+        "Name":"어둠의 급류"
     },
     {
         "ID":49205,
-        "Name":null
+        "Name":"보이드 선더가"
     },
     {
         "ID":49206,
-        "Name":null
+        "Name":"보이드 선더가"
     },
     {
         "ID":49207,
-        "Name":null
+        "Name":"보이드 선더가"
     },
     {
         "ID":49208,
-        "Name":null
+        "Name":"보이드 파라이가"
     },
     {
         "ID":49209,
-        "Name":null
+        "Name":"어둠의 장막"
     },
     {
         "ID":49210,
-        "Name":null
+        "Name":"폭발"
     },
     {
         "ID":49211,
-        "Name":null
+        "Name":"자폭"
     },
     {
         "ID":49212,
-        "Name":null
+        "Name":"빛 산란"
     },
     {
         "ID":49213,
-        "Name":null
+        "Name":"배니시"
     },
     {
         "ID":49214,
-        "Name":null
+        "Name":"석화 시선"
     },
     {
         "ID":49215,
-        "Name":null
+        "Name":"무기 교체"
     },
     {
         "ID":49216,
-        "Name":null
+        "Name":"무기 교체"
     },
     {
         "ID":49217,
@@ -196873,43 +196873,43 @@
     },
     {
         "ID":49219,
-        "Name":null
+        "Name":"돌격"
     },
     {
         "ID":49220,
-        "Name":null
+        "Name":"돌격"
     },
     {
         "ID":49221,
-        "Name":null
+        "Name":"회전 타격"
     },
     {
         "ID":49222,
-        "Name":null
+        "Name":"회전 타격"
     },
     {
         "ID":49223,
-        "Name":null
+        "Name":"휩쓸기"
     },
     {
         "ID":49224,
-        "Name":null
+        "Name":"휩쓸기"
     },
     {
         "ID":49225,
-        "Name":null
+        "Name":"무기 휘두르기"
     },
     {
         "ID":49226,
-        "Name":null
+        "Name":"무기 휘두르기"
     },
     {
         "ID":49227,
-        "Name":null
+        "Name":"무기 휘두르기"
     },
     {
         "ID":49228,
-        "Name":null
+        "Name":"무기 휘두르기"
     },
     {
         "ID":49229,
@@ -196917,19 +196917,19 @@
     },
     {
         "ID":49230,
-        "Name":null
+        "Name":"덤벼들기"
     },
     {
         "ID":49231,
-        "Name":null
+        "Name":"어둠의 충격"
     },
     {
         "ID":49232,
-        "Name":null
+        "Name":"마물 소환"
     },
     {
         "ID":49233,
-        "Name":null
+        "Name":"마물 소환"
     },
     {
         "ID":49234,
@@ -196937,91 +196937,91 @@
     },
     {
         "ID":49235,
-        "Name":null
+        "Name":"마력 구체"
     },
     {
         "ID":49236,
-        "Name":null
+        "Name":"폭발"
     },
     {
         "ID":49237,
-        "Name":null
+        "Name":"폭발"
     },
     {
         "ID":49238,
-        "Name":null
+        "Name":"충격 파동"
     },
     {
         "ID":49239,
-        "Name":null
+        "Name":"다라"
     },
     {
         "ID":49240,
-        "Name":null
+        "Name":"다라"
     },
     {
         "ID":49241,
-        "Name":null
+        "Name":"욕설"
     },
     {
         "ID":49242,
-        "Name":null
+        "Name":"워터가"
     },
     {
         "ID":49243,
-        "Name":null
+        "Name":"파이가"
     },
     {
         "ID":49244,
-        "Name":null
+        "Name":"선더가"
     },
     {
         "ID":49245,
-        "Name":null
+        "Name":"선더가"
     },
     {
         "ID":49246,
-        "Name":null
+        "Name":"선더가"
     },
     {
         "ID":49247,
-        "Name":null
+        "Name":"공포의 눈길"
     },
     {
         "ID":49248,
-        "Name":null
+        "Name":"부패 브레스"
     },
     {
         "ID":49249,
-        "Name":null
+        "Name":"꼬리쓸기"
     },
     {
         "ID":49250,
-        "Name":null
+        "Name":"가시털 세우기"
     },
     {
         "ID":49251,
-        "Name":null
+        "Name":"반격"
     },
     {
         "ID":49252,
-        "Name":null
+        "Name":"가시털 흩뿌리기"
     },
     {
         "ID":49253,
-        "Name":null
+        "Name":"화염 보호막"
     },
     {
         "ID":49254,
-        "Name":null
+        "Name":"파열 송곳니"
     },
     {
         "ID":49255,
-        "Name":null
+        "Name":"화염 태풍"
     },
     {
         "ID":49256,
-        "Name":null
+        "Name":"화염 태풍"
     },
     {
         "ID":49257,
@@ -197029,19 +197029,19 @@
     },
     {
         "ID":49258,
-        "Name":null
+        "Name":"번짐불"
     },
     {
         "ID":49259,
-        "Name":null
+        "Name":"화염 선풍"
     },
     {
         "ID":49260,
-        "Name":null
+        "Name":"미혹의 비늘가루"
     },
     {
         "ID":49261,
-        "Name":null
+        "Name":"혼란의 비늘가루"
     },
     {
         "ID":49262,
@@ -197049,31 +197049,31 @@
     },
     {
         "ID":49263,
-        "Name":null
+        "Name":"번개 흡수"
     },
     {
         "ID":49264,
-        "Name":null
+        "Name":"번개 방출"
     },
     {
         "ID":49265,
-        "Name":null
+        "Name":"번개 방출"
     },
     {
         "ID":49266,
-        "Name":null
+        "Name":"번개 방출"
     },
     {
         "ID":49267,
-        "Name":null
+        "Name":"미사일"
     },
     {
         "ID":49268,
-        "Name":null
+        "Name":"돌격"
     },
     {
         "ID":49269,
-        "Name":null
+        "Name":"소환"
     },
     {
         "ID":49270,
@@ -197081,59 +197081,59 @@
     },
     {
         "ID":49271,
-        "Name":null
+        "Name":"에테르 공급"
     },
     {
         "ID":49272,
-        "Name":null
+        "Name":"원자 파동"
     },
     {
         "ID":49273,
-        "Name":null
+        "Name":"기화폭탄"
     },
     {
         "ID":49274,
-        "Name":null
+        "Name":"기화폭탄"
     },
     {
         "ID":49275,
-        "Name":null
+        "Name":"확산 광선"
     },
     {
         "ID":49276,
-        "Name":null
+        "Name":"확산 광선"
     },
     {
         "ID":49277,
-        "Name":null
+        "Name":"석화광 방사"
     },
     {
         "ID":49278,
-        "Name":null
+        "Name":"석화광 방사"
     },
     {
         "ID":49279,
-        "Name":null
+        "Name":"분란의 석화광"
     },
     {
         "ID":49280,
-        "Name":null
+        "Name":"분란의 석화광"
     },
     {
         "ID":49281,
-        "Name":null
+        "Name":"분란의 석화광"
     },
     {
         "ID":49282,
-        "Name":null
+        "Name":"분란의 석화광"
     },
     {
         "ID":49283,
-        "Name":null
+        "Name":"소환"
     },
     {
         "ID":49284,
-        "Name":null
+        "Name":"화염의 원"
     },
     {
         "ID":49285,
@@ -197141,191 +197141,191 @@
     },
     {
         "ID":49286,
-        "Name":null
+        "Name":"공포의 미아즈마"
     },
     {
         "ID":49287,
-        "Name":null
+        "Name":"레이즈"
     },
     {
         "ID":49288,
-        "Name":null
+        "Name":"내외측 연속베기"
     },
     {
         "ID":49289,
-        "Name":null
+        "Name":"내측 베기"
     },
     {
         "ID":49290,
-        "Name":null
+        "Name":"외측 베기"
     },
     {
         "ID":49291,
-        "Name":null
+        "Name":"외측 베기"
     },
     {
         "ID":49292,
-        "Name":null
+        "Name":"외내측 연속베기"
     },
     {
         "ID":49293,
-        "Name":null
+        "Name":"외측 베기"
     },
     {
         "ID":49294,
-        "Name":null
+        "Name":"내측 베기"
     },
     {
         "ID":49295,
-        "Name":null
+        "Name":"내측 베기"
     },
     {
         "ID":49296,
-        "Name":null
+        "Name":"충격파"
     },
     {
         "ID":49297,
-        "Name":null
+        "Name":"1000톤즈 휘두르기"
     },
     {
         "ID":49298,
-        "Name":null
+        "Name":"분란"
     },
     {
         "ID":49299,
-        "Name":null
+        "Name":"냉기 숨결"
     },
     {
         "ID":49300,
-        "Name":null
+        "Name":"냉기 숨결"
     },
     {
         "ID":49301,
-        "Name":null
+        "Name":"번개 숨결"
     },
     {
         "ID":49302,
-        "Name":null
+        "Name":"번개 숨결"
     },
     {
         "ID":49303,
-        "Name":null
+        "Name":"화염 숨결"
     },
     {
         "ID":49304,
-        "Name":null
+        "Name":"화염 숨결"
     },
     {
         "ID":49305,
-        "Name":null
+        "Name":"빙결의 포효"
     },
     {
         "ID":49306,
-        "Name":null
+        "Name":"빙결의 포효"
     },
     {
         "ID":49307,
-        "Name":null
+        "Name":"뇌전의 포효"
     },
     {
         "ID":49308,
-        "Name":null
+        "Name":"뇌전의 포효"
     },
     {
         "ID":49309,
-        "Name":null
+        "Name":"빙결의 대포효"
     },
     {
         "ID":49310,
-        "Name":null
+        "Name":"빙결의 대포효"
     },
     {
         "ID":49311,
-        "Name":null
+        "Name":"빙결의 대포효"
     },
     {
         "ID":49312,
-        "Name":null
+        "Name":"뇌전의 대포효"
     },
     {
         "ID":49313,
-        "Name":null
+        "Name":"뇌전의 대포효"
     },
     {
         "ID":49314,
-        "Name":null
+        "Name":"뇌전의 대포효"
     },
     {
         "ID":49315,
-        "Name":null
+        "Name":"빙결의 대포효"
     },
     {
         "ID":49316,
-        "Name":null
+        "Name":"뇌전의 대포효"
     },
     {
         "ID":49317,
-        "Name":null
+        "Name":"불협화음"
     },
     {
         "ID":49318,
-        "Name":null
+        "Name":"혼돈의 대합창"
     },
     {
         "ID":49319,
-        "Name":null
+        "Name":"차디찬 시선"
     },
     {
         "ID":49320,
-        "Name":null
+        "Name":"차디찬 시선"
     },
     {
         "ID":49321,
-        "Name":null
+        "Name":"●突進＆ブレス"
     },
     {
         "ID":49322,
-        "Name":null
+        "Name":"돌진 숨결"
     },
     {
         "ID":49323,
-        "Name":null
+        "Name":"돌진 숨결"
     },
     {
         "ID":49324,
-        "Name":null
+        "Name":"돌진 숨결"
     },
     {
         "ID":49325,
-        "Name":null
+        "Name":"돌진 숨결"
     },
     {
         "ID":49326,
-        "Name":null
+        "Name":"냉기 숨결"
     },
     {
         "ID":49327,
-        "Name":null
+        "Name":"냉기 숨결"
     },
     {
         "ID":49328,
-        "Name":null
+        "Name":"번개 숨결"
     },
     {
         "ID":49329,
-        "Name":null
+        "Name":"번개 숨결"
     },
     {
         "ID":49330,
-        "Name":null
+        "Name":"화염 숨결"
     },
     {
         "ID":49331,
-        "Name":null
+        "Name":"화염 숨결"
     },
     {
         "ID":49332,
-        "Name":null
+        "Name":"독 폭발"
     },
     {
         "ID":49333,
@@ -197333,51 +197333,51 @@
     },
     {
         "ID":49334,
-        "Name":null
+        "Name":"배니시"
     },
     {
         "ID":49335,
-        "Name":null
+        "Name":"배니시"
     },
     {
         "ID":49336,
-        "Name":null
+        "Name":"배니시"
     },
     {
         "ID":49337,
-        "Name":null
+        "Name":"배니시"
     },
     {
         "ID":49338,
-        "Name":null
+        "Name":"배니시"
     },
     {
         "ID":49339,
-        "Name":null
+        "Name":"배니시"
     },
     {
         "ID":49340,
-        "Name":null
+        "Name":"배니시"
     },
     {
         "ID":49341,
-        "Name":null
+        "Name":"배니시"
     },
     {
         "ID":49342,
-        "Name":null
+        "Name":"망연자실한 외침"
     },
     {
         "ID":49343,
-        "Name":null
+        "Name":"기억 수수께끼"
     },
     {
         "ID":49344,
-        "Name":null
+        "Name":"기억 수수께끼"
     },
     {
         "ID":49345,
-        "Name":null
+        "Name":"변화"
     },
     {
         "ID":49346,
@@ -197389,35 +197389,35 @@
     },
     {
         "ID":49348,
-        "Name":null
+        "Name":"수수께끼 풀이 성공"
     },
     {
         "ID":49349,
-        "Name":null
+        "Name":"수수께끼 풀이 성공"
     },
     {
         "ID":49350,
-        "Name":null
+        "Name":"수수께끼 풀이 실패"
     },
     {
         "ID":49351,
-        "Name":null
+        "Name":"수수께끼 풀이 실패"
     },
     {
         "ID":49352,
-        "Name":null
+        "Name":"숫자 수수께끼"
     },
     {
         "ID":49353,
-        "Name":null
+        "Name":"숫자 수수께끼"
     },
     {
         "ID":49354,
-        "Name":null
+        "Name":"시험 시작"
     },
     {
         "ID":49355,
-        "Name":null
+        "Name":"수수께끼 풀이 실패"
     },
     {
         "ID":49356,
@@ -197429,47 +197429,47 @@
     },
     {
         "ID":49358,
-        "Name":null
+        "Name":"거대한 분노"
     },
     {
         "ID":49359,
-        "Name":null
+        "Name":"거대한 분노"
     },
     {
         "ID":49360,
-        "Name":null
+        "Name":"거대한 분노"
     },
     {
         "ID":49361,
-        "Name":null
+        "Name":"거대한 분노"
     },
     {
         "ID":49362,
-        "Name":null
+        "Name":"거대한 분노"
     },
     {
         "ID":49363,
-        "Name":null
+        "Name":"거대한 분노"
     },
     {
         "ID":49364,
-        "Name":null
+        "Name":"추적 벼락"
     },
     {
         "ID":49365,
-        "Name":null
+        "Name":"추적 벼락"
     },
     {
         "ID":49366,
-        "Name":null
+        "Name":"추적 화염"
     },
     {
         "ID":49367,
-        "Name":null
+        "Name":"노려보기"
     },
     {
         "ID":49368,
-        "Name":null
+        "Name":"사기 증진"
     },
     {
         "ID":49369,
@@ -197477,7 +197477,7 @@
     },
     {
         "ID":49370,
-        "Name":null
+        "Name":"노려보기"
     },
     {
         "ID":49371,
@@ -197489,27 +197489,27 @@
     },
     {
         "ID":49373,
-        "Name":null
+        "Name":"파열"
     },
     {
         "ID":49374,
-        "Name":null
+        "Name":"파열"
     },
     {
         "ID":49375,
-        "Name":null
+        "Name":"파열"
     },
     {
         "ID":49376,
-        "Name":null
+        "Name":"파열"
     },
     {
         "ID":49377,
-        "Name":null
+        "Name":"박살 타격"
     },
     {
         "ID":49378,
-        "Name":null
+        "Name":"박살 타격"
     },
     {
         "ID":49379,
@@ -197517,159 +197517,159 @@
     },
     {
         "ID":49380,
-        "Name":null
+        "Name":"100모그즈 후려치기"
     },
     {
         "ID":49381,
-        "Name":null
+        "Name":"100모그즈 후려치기"
     },
     {
         "ID":49382,
-        "Name":null
+        "Name":"모그리 폭풍"
     },
     {
         "ID":49383,
-        "Name":null
+        "Name":"모그리 폭풍"
     },
     {
         "ID":49384,
-        "Name":null
+        "Name":"폼폼 플레어"
     },
     {
         "ID":49385,
-        "Name":null
+        "Name":"폼폼 플러드"
     },
     {
         "ID":49386,
-        "Name":null
+        "Name":"폼폼 홀리"
     },
     {
         "ID":49387,
-        "Name":null
+        "Name":"폼폼 홀리"
     },
     {
         "ID":49388,
-        "Name":null
+        "Name":"폼폼 메테오 레인"
     },
     {
         "ID":49389,
-        "Name":null
+        "Name":"폼폼 메테오 레인"
     },
     {
         "ID":49390,
-        "Name":null
+        "Name":"폼폼 메테오 레인"
     },
     {
         "ID":49391,
-        "Name":null
+        "Name":"폼폼 메테오 레인"
     },
     {
         "ID":49392,
-        "Name":null
+        "Name":"폼폼 메테오 레인"
     },
     {
         "ID":49393,
-        "Name":null
+        "Name":"폼폼 메테오 레인"
     },
     {
         "ID":49394,
-        "Name":null
+        "Name":"배짱"
     },
     {
         "ID":49395,
-        "Name":null
+        "Name":"모그리 방패 후려치기"
     },
     {
         "ID":49396,
-        "Name":null
+        "Name":"폼폼 난도질"
     },
     {
         "ID":49397,
-        "Name":null
+        "Name":"모그리 광시곡"
     },
     {
         "ID":49398,
-        "Name":null
+        "Name":"폭발"
     },
     {
         "ID":49399,
-        "Name":null
+        "Name":"약탈이다쿠뽀"
     },
     {
         "ID":49400,
-        "Name":null
+        "Name":"도망치자쿠뽀"
     },
     {
         "ID":49401,
-        "Name":null
+        "Name":"방전"
     },
     {
         "ID":49402,
-        "Name":null
+        "Name":"운석 낙하"
     },
     {
         "ID":49403,
-        "Name":null
+        "Name":"운석 낙하"
     },
     {
         "ID":49404,
-        "Name":null
+        "Name":"파편 폭발"
     },
     {
         "ID":49405,
-        "Name":null
+        "Name":"낙뢰"
     },
     {
         "ID":49406,
-        "Name":null
+        "Name":"광역 낙뢰"
     },
     {
         "ID":49407,
-        "Name":null
+        "Name":"광역 낙뢰"
     },
     {
         "ID":49408,
-        "Name":null
+        "Name":"웅장한 검격"
     },
     {
         "ID":49409,
-        "Name":null
+        "Name":"황도 메테오"
     },
     {
         "ID":49410,
-        "Name":null
+        "Name":"황도 메테오"
     },
     {
         "ID":49411,
-        "Name":null
+        "Name":"십자 번갯불"
     },
     {
         "ID":49412,
-        "Name":null
+        "Name":"대소용돌이"
     },
     {
         "ID":49413,
-        "Name":null
+        "Name":"대소용돌이"
     },
     {
         "ID":49414,
-        "Name":null
+        "Name":"대소용돌이"
     },
     {
         "ID":49415,
-        "Name":null
+        "Name":"대소용돌이"
     },
     {
         "ID":49416,
-        "Name":null
+        "Name":"메테오"
     },
     {
         "ID":49417,
-        "Name":null
+        "Name":"메테오"
     },
     {
         "ID":49418,
-        "Name":null
+        "Name":"죽음의 돌림판"
     },
     {
         "ID":49419,
@@ -197685,7 +197685,7 @@
     },
     {
         "ID":49422,
-        "Name":null
+        "Name":"데스"
     },
     {
         "ID":49423,
@@ -197693,51 +197693,51 @@
     },
     {
         "ID":49424,
-        "Name":null
+        "Name":"두 개의 시선"
     },
     {
         "ID":49425,
-        "Name":null
+        "Name":"비탄의 시선"
     },
     {
         "ID":49426,
-        "Name":null
+        "Name":"분노의 시선"
     },
     {
         "ID":49427,
-        "Name":null
+        "Name":"비탄의 낙인"
     },
     {
         "ID":49428,
-        "Name":null
+        "Name":"마수 랭크 5 데스"
     },
     {
         "ID":49429,
-        "Name":null
+        "Name":"마수 랭크 5 데스"
     },
     {
         "ID":49430,
-        "Name":null
+        "Name":"불쑥 겁주기"
     },
     {
         "ID":49431,
-        "Name":null
+        "Name":"플레어"
     },
     {
         "ID":49432,
-        "Name":null
+        "Name":"플레어"
     },
     {
         "ID":49433,
-        "Name":null
+        "Name":"괴이한 광선"
     },
     {
         "ID":49434,
-        "Name":null
+        "Name":"죽음의 시선"
     },
     {
         "ID":49435,
-        "Name":null
+        "Name":"뼈대 꺾기"
     },
     {
         "ID":49436,
@@ -197745,79 +197745,79 @@
     },
     {
         "ID":49437,
-        "Name":null
+        "Name":"폭발의 마력날"
     },
     {
         "ID":49438,
-        "Name":null
+        "Name":"폭발의 마력날"
     },
     {
         "ID":49439,
-        "Name":null
+        "Name":"폭발의 마력날"
     },
     {
         "ID":49440,
-        "Name":null
+        "Name":"폭발의 마력날"
     },
     {
         "ID":49441,
-        "Name":null
+        "Name":"폭발의 마력날"
     },
     {
         "ID":49442,
-        "Name":null
+        "Name":"폭발의 마력날"
     },
     {
         "ID":49443,
-        "Name":null
+        "Name":"마력 폭발"
     },
     {
         "ID":49444,
-        "Name":null
+        "Name":"폭발의 마력날"
     },
     {
         "ID":49445,
-        "Name":null
+        "Name":"탐식의 압살"
     },
     {
         "ID":49446,
-        "Name":null
+        "Name":"탐식의 압살"
     },
     {
         "ID":49447,
-        "Name":null
+        "Name":"폭발의 마력날"
     },
     {
         "ID":49448,
-        "Name":null
+        "Name":"탐식의 분쇄"
     },
     {
         "ID":49449,
-        "Name":null
+        "Name":"탐식의 분쇄"
     },
     {
         "ID":49450,
-        "Name":null
+        "Name":"수직 강타"
     },
     {
         "ID":49451,
-        "Name":null
+        "Name":"수직 강타"
     },
     {
         "ID":49452,
-        "Name":null
+        "Name":"난폭한 기운"
     },
     {
         "ID":49453,
-        "Name":null
+        "Name":"난폭한 기운"
     },
     {
         "ID":49454,
-        "Name":null
+        "Name":"마력날 결계"
     },
     {
         "ID":49455,
-        "Name":null
+        "Name":"구속"
     },
     {
         "ID":49456,
@@ -197825,11 +197825,11 @@
     },
     {
         "ID":49457,
-        "Name":null
+        "Name":"극독의 마력날"
     },
     {
         "ID":49458,
-        "Name":null
+        "Name":"구속"
     },
     {
         "ID":49459,
@@ -197837,47 +197837,47 @@
     },
     {
         "ID":49460,
-        "Name":null
+        "Name":"화염의 마력날: 감옥"
     },
     {
         "ID":49461,
-        "Name":null
+        "Name":"魔刃の爆炎"
     },
     {
         "ID":49462,
-        "Name":null
+        "Name":"지배의 마력날: 자율"
     },
     {
         "ID":49463,
-        "Name":null
+        "Name":"지배의 마력날"
     },
     {
         "ID":49464,
-        "Name":null
+        "Name":"지배의 마력날"
     },
     {
         "ID":49465,
-        "Name":null
+        "Name":"화염의 마력날"
     },
     {
         "ID":49466,
-        "Name":null
+        "Name":"화염의 마력날"
     },
     {
         "ID":49467,
-        "Name":null
+        "Name":"화염의 마력날"
     },
     {
         "ID":49468,
-        "Name":null
+        "Name":"화염의 마력날"
     },
     {
         "ID":49469,
-        "Name":null
+        "Name":"마력날의 폭염"
     },
     {
         "ID":49470,
-        "Name":null
+        "Name":"벼락"
     },
     {
         "ID":49471,
@@ -197885,75 +197885,75 @@
     },
     {
         "ID":49472,
-        "Name":null
+        "Name":"강화의 마력날"
     },
     {
         "ID":49473,
-        "Name":null
+        "Name":"폭식의 도끼"
     },
     {
         "ID":49474,
-        "Name":null
+        "Name":"폭식의 도끼"
     },
     {
         "ID":49475,
-        "Name":null
+        "Name":"폭식의 도끼"
     },
     {
         "ID":49476,
-        "Name":null
+        "Name":"폭식의 도끼"
     },
     {
         "ID":49477,
-        "Name":null
+        "Name":"작열의 도끼"
     },
     {
         "ID":49478,
-        "Name":null
+        "Name":"작열의 도끼"
     },
     {
         "ID":49479,
-        "Name":null
+        "Name":"작열의 도끼"
     },
     {
         "ID":49480,
-        "Name":null
+        "Name":"작열의 도끼"
     },
     {
         "ID":49481,
-        "Name":null
+        "Name":"소멸의 마력날"
     },
     {
         "ID":49482,
-        "Name":null
+        "Name":"돌진"
     },
     {
         "ID":49483,
-        "Name":null
+        "Name":"돌진"
     },
     {
         "ID":49484,
-        "Name":null
+        "Name":"소멸의 마력날: 충격파"
     },
     {
         "ID":49485,
-        "Name":null
+        "Name":"소멸의 마력날: 충격파"
     },
     {
         "ID":49486,
-        "Name":null
+        "Name":"소멸의 마력날: 충격파"
     },
     {
         "ID":49487,
-        "Name":null
+        "Name":"소멸의 마력날: 충격파"
     },
     {
         "ID":49488,
-        "Name":null
+        "Name":"소멸의 마력날: 충격파"
     },
     {
         "ID":49489,
-        "Name":null
+        "Name":"충격파"
     },
     {
         "ID":49490,
@@ -198029,7 +198029,7 @@
     },
     {
         "ID":49508,
-        "Name":null
+        "Name":"피의 치유"
     },
     {
         "ID":49509,
@@ -198041,11 +198041,11 @@
     },
     {
         "ID":49511,
-        "Name":null
+        "Name":"공격"
     },
     {
         "ID":49512,
-        "Name":null
+        "Name":"미사일"
     },
     {
         "ID":49513,
@@ -198749,7 +198749,7 @@
     },
     {
         "ID":49688,
-        "Name":null
+        "Name":"작열 강타"
     },
     {
         "ID":49689,
@@ -198909,7 +198909,7 @@
     },
     {
         "ID":49728,
-        "Name":null
+        "Name":"대화염"
     },
     {
         "ID":49729,
@@ -199197,11 +199197,11 @@
     },
     {
         "ID":49800,
-        "Name":null
+        "Name":"迅速魔"
     },
     {
         "ID":49801,
-        "Name":null
+        "Name":"정상건강"
     },
     {
         "ID":49802,
@@ -199209,67 +199209,67 @@
     },
     {
         "ID":49803,
-        "Name":null
+        "Name":"정상건강: 도시스 3"
     },
     {
         "ID":49804,
-        "Name":null
+        "Name":"타우로콜레"
     },
     {
         "ID":49805,
-        "Name":null
+        "Name":"드루오콜레"
     },
     {
         "ID":49806,
-        "Name":null
+        "Name":"정상건강: 진단치료"
     },
     {
         "ID":49807,
-        "Name":null
+        "Name":"진단치료"
     },
     {
         "ID":49808,
-        "Name":null
+        "Name":"익소콜레"
     },
     {
         "ID":49809,
-        "Name":null
+        "Name":"정상건강: 예후 2"
     },
     {
         "ID":49810,
-        "Name":null
+        "Name":"예후"
     },
     {
         "ID":49811,
-        "Name":null
+        "Name":"혈액"
     },
     {
         "ID":49812,
-        "Name":null
+        "Name":"플레그마 3"
     },
     {
         "ID":49813,
-        "Name":null
+        "Name":"톡시콘 2"
     },
     {
         "ID":49814,
-        "Name":null
+        "Name":"도시스 3"
     },
     {
         "ID":49815,
-        "Name":null
+        "Name":"케이라콜레"
     },
     {
         "ID":49816,
-        "Name":null
+        "Name":"온혈액"
     },
     {
         "ID":49817,
-        "Name":null
+        "Name":"프시케"
     },
     {
         "ID":49818,
-        "Name":null
+        "Name":"척추 강타"
     },
     {
         "ID":49819,
@@ -199277,67 +199277,67 @@
     },
     {
         "ID":49820,
-        "Name":null
+        "Name":"검은 용혈"
     },
     {
         "ID":49821,
-        "Name":null
+        "Name":"용안뇌전"
     },
     {
         "ID":49822,
-        "Name":null
+        "Name":"전진 찌르기"
     },
     {
         "ID":49823,
-        "Name":null
+        "Name":"하늘 찌르기"
     },
     {
         "ID":49824,
-        "Name":null
+        "Name":"나선 가르기"
     },
     {
         "ID":49825,
-        "Name":null
+        "Name":"용의 발톱"
     },
     {
         "ID":49826,
-        "Name":null
+        "Name":"운증용변"
     },
     {
         "ID":49827,
-        "Name":null
+        "Name":"화룡 강타"
     },
     {
         "ID":49828,
-        "Name":null
+        "Name":"용의 비상"
     },
     {
         "ID":49829,
-        "Name":null
+        "Name":"천체 강하"
     },
     {
         "ID":49830,
-        "Name":null
+        "Name":"천체 관통"
     },
     {
         "ID":49831,
-        "Name":null
+        "Name":"하이 점프"
     },
     {
         "ID":49832,
-        "Name":null
+        "Name":"나스트론드"
     },
     {
         "ID":49833,
-        "Name":null
+        "Name":"게이르스코굴"
     },
     {
         "ID":49834,
-        "Name":null
+        "Name":"암흑룡 강타"
     },
     {
         "ID":49835,
-        "Name":null
+        "Name":"용의 꼬리"
     },
     {
         "ID":49836,
@@ -199345,31 +199345,31 @@
     },
     {
         "ID":49837,
-        "Name":null
+        "Name":"에테르 작살창"
     },
     {
         "ID":49838,
-        "Name":null
+        "Name":"예속의 워터가"
     },
     {
         "ID":49839,
-        "Name":null
+        "Name":"예속의 워터가"
     },
     {
         "ID":49840,
-        "Name":null
+        "Name":"온혈액"
     },
     {
         "ID":49841,
-        "Name":null
+        "Name":"천체 강하"
     },
     {
         "ID":49842,
-        "Name":null
+        "Name":"마음의 벽"
     },
     {
         "ID":49843,
-        "Name":null
+        "Name":"액체 아트게이르"
     },
     {
         "ID":49844,
@@ -199381,83 +199381,83 @@
     },
     {
         "ID":49846,
-        "Name":null
+        "Name":"척추 강타"
     },
     {
         "ID":49847,
-        "Name":null
+        "Name":"치솟는 물"
     },
     {
         "ID":49848,
-        "Name":null
+        "Name":"치솟는 물"
     },
     {
         "ID":49849,
-        "Name":null
+        "Name":"팔 휘두르기"
     },
     {
         "ID":49850,
-        "Name":null
+        "Name":"비 오는 날"
     },
     {
         "ID":49851,
-        "Name":null
+        "Name":"비 오는 날"
     },
     {
         "ID":49852,
-        "Name":null
+        "Name":"예속의 워터쟈"
     },
     {
         "ID":49853,
-        "Name":null
+        "Name":"예속의 워터가"
     },
     {
         "ID":49854,
-        "Name":null
+        "Name":"예속의 워터가"
     },
     {
         "ID":49855,
-        "Name":null
+        "Name":"윌 오 워터"
     },
     {
         "ID":49856,
-        "Name":null
+        "Name":"윌 오 워터"
     },
     {
         "ID":49857,
-        "Name":null
+        "Name":"윌 오 워터"
     },
     {
         "ID":49858,
-        "Name":null
+        "Name":"윌 오 워터"
     },
     {
         "ID":49859,
-        "Name":null
+        "Name":"윌 오 워터"
     },
     {
         "ID":49860,
-        "Name":null
+        "Name":"예속의 워터"
     },
     {
         "ID":49861,
-        "Name":null
+        "Name":"예속의 워터"
     },
     {
         "ID":49862,
-        "Name":null
+        "Name":"물밑 감옥"
     },
     {
         "ID":49863,
-        "Name":null
+        "Name":"물밑 감옥"
     },
     {
         "ID":49864,
-        "Name":null
+        "Name":"집합"
     },
     {
         "ID":49865,
-        "Name":null
+        "Name":"구속 연계"
     },
     {
         "ID":49866,
@@ -199465,15 +199465,15 @@
     },
     {
         "ID":49867,
-        "Name":null
+        "Name":"삼투압 찌르기"
     },
     {
         "ID":49868,
-        "Name":null
+        "Name":"거친 물보라"
     },
     {
         "ID":49869,
-        "Name":null
+        "Name":"거친 물보라"
     },
     {
         "ID":49870,
@@ -199481,31 +199481,31 @@
     },
     {
         "ID":49871,
-        "Name":null
+        "Name":"요동치는 촉수"
     },
     {
         "ID":49872,
-        "Name":null
+        "Name":"요동치는 촉수"
     },
     {
         "ID":49873,
-        "Name":null
+        "Name":"쏟아지는 번개"
     },
     {
         "ID":49874,
-        "Name":null
+        "Name":"쏟아지는 번개"
     },
     {
         "ID":49875,
-        "Name":null
+        "Name":"검은 용혈"
     },
     {
         "ID":49876,
-        "Name":null
+        "Name":"칠흑룡 강타"
     },
     {
         "ID":49877,
-        "Name":null
+        "Name":"칠흑룡 강타"
     },
     {
         "ID":49878,
@@ -199541,11 +199541,11 @@
     },
     {
         "ID":49886,
-        "Name":null
+        "Name":"보이드 블리자가"
     },
     {
         "ID":49887,
-        "Name":null
+        "Name":"보이드 블리자가"
     },
     {
         "ID":49888,
@@ -201637,19 +201637,19 @@
     },
     {
         "ID":50410,
-        "Name":null
+        "Name":"꼬리와 발톱"
     },
     {
         "ID":50411,
-        "Name":null
+        "Name":"꼬리와 발톱"
     },
     {
         "ID":50412,
-        "Name":null
+        "Name":"꼬리와 발톱"
     },
     {
         "ID":50413,
-        "Name":null
+        "Name":"꼬리와 발톱"
     },
     {
         "ID":50414,
@@ -201681,7 +201681,7 @@
     },
     {
         "ID":50421,
-        "Name":null
+        "Name":"에테르 작살창"
     },
     {
         "ID":50422,
@@ -201781,7 +201781,7 @@
     },
     {
         "ID":50446,
-        "Name":null
+        "Name":"고브고브 폭탄"
     },
     {
         "ID":50447,
@@ -201857,7 +201857,7 @@
     },
     {
         "ID":50465,
-        "Name":null
+        "Name":"광란"
     },
     {
         "ID":50466,
@@ -202069,23 +202069,23 @@
     },
     {
         "ID":50518,
-        "Name":null
+        "Name":"도토리 폭탄"
     },
     {
         "ID":50519,
-        "Name":null
+        "Name":"송곳니 끝"
     },
     {
         "ID":50520,
-        "Name":null
+        "Name":"전기 발생"
     },
     {
         "ID":50521,
-        "Name":null
+        "Name":"화염 태풍"
     },
     {
         "ID":50522,
-        "Name":null
+        "Name":"불꽃 비늘"
     },
     {
         "ID":50523,
@@ -202125,7 +202125,7 @@
     },
     {
         "ID":50532,
-        "Name":null
+        "Name":"파라이즈 보호막"
     },
     {
         "ID":50533,
@@ -202157,11 +202157,11 @@
     },
     {
         "ID":50540,
-        "Name":null
+        "Name":"지옥의 고통"
     },
     {
         "ID":50541,
-        "Name":null
+        "Name":"지옥의 고통"
     },
     {
         "ID":50542,
@@ -202173,7 +202173,7 @@
     },
     {
         "ID":50544,
-        "Name":null
+        "Name":"공격"
     },
     {
         "ID":50545,
@@ -202593,7 +202593,7 @@
     },
     {
         "ID":50649,
-        "Name":null
+        "Name":"완전 파괴"
     },
     {
         "ID":50650,
@@ -202645,7 +202645,7 @@
     },
     {
         "ID":50662,
-        "Name":null
+        "Name":"매질"
     },
     {
         "ID":50663,
@@ -202701,7 +202701,7 @@
     },
     {
         "ID":50676,
-        "Name":null
+        "Name":"자폭"
     },
     {
         "ID":50677,
@@ -202749,7 +202749,7 @@
     },
     {
         "ID":50688,
-        "Name":null
+        "Name":"돌격"
     },
     {
         "ID":50689,
@@ -202769,7 +202769,7 @@
     },
     {
         "ID":50693,
-        "Name":null
+        "Name":"영혼 분리"
     },
     {
         "ID":50694,
@@ -202777,11 +202777,11 @@
     },
     {
         "ID":50695,
-        "Name":null
+        "Name":"충격파 5연속베기"
     },
     {
         "ID":50696,
-        "Name":null
+        "Name":"충격파 5연속베기"
     },
     {
         "ID":50697,
@@ -202921,7 +202921,7 @@
     },
     {
         "ID":50731,
-        "Name":null
+        "Name":"밭갈이"
     },
     {
         "ID":50732,
@@ -202969,27 +202969,27 @@
     },
     {
         "ID":50743,
-        "Name":null
+        "Name":"블리자드"
     },
     {
         "ID":50744,
-        "Name":null
+        "Name":"파이어"
     },
     {
         "ID":50745,
-        "Name":null
+        "Name":"선더"
     },
     {
         "ID":50746,
-        "Name":null
+        "Name":"에어로"
     },
     {
         "ID":50747,
-        "Name":null
+        "Name":"스톤"
     },
     {
         "ID":50748,
-        "Name":null
+        "Name":"워터"
     },
     {
         "ID":50749,
@@ -202997,7 +202997,7 @@
     },
     {
         "ID":50750,
-        "Name":null
+        "Name":"공격"
     },
     {
         "ID":50751,
@@ -203025,11 +203025,11 @@
     },
     {
         "ID":50757,
-        "Name":null
+        "Name":"지진"
     },
     {
         "ID":50758,
-        "Name":null
+        "Name":"지진"
     },
     {
         "ID":50759,
@@ -203149,27 +203149,27 @@
     },
     {
         "ID":50788,
-        "Name":null
+        "Name":"블리자드"
     },
     {
         "ID":50789,
-        "Name":null
+        "Name":"파이어"
     },
     {
         "ID":50790,
-        "Name":null
+        "Name":"선더"
     },
     {
         "ID":50791,
-        "Name":null
+        "Name":"에어로"
     },
     {
         "ID":50792,
-        "Name":null
+        "Name":"스톤"
     },
     {
         "ID":50793,
-        "Name":null
+        "Name":"워터"
     },
     {
         "ID":50794,
@@ -203381,15 +203381,15 @@
     },
     {
         "ID":50846,
-        "Name":null
+        "Name":"지배의 마력날"
     },
     {
         "ID":50847,
-        "Name":null
+        "Name":"지배의 마력날"
     },
     {
         "ID":50848,
-        "Name":null
+        "Name":"지배의 마력날"
     },
     {
         "ID":50849,
@@ -203701,35 +203701,35 @@
     },
     {
         "ID":50926,
-        "Name":null
+        "Name":"블리자드"
     },
     {
         "ID":50927,
-        "Name":null
+        "Name":"파이어"
     },
     {
         "ID":50928,
-        "Name":null
+        "Name":"선더"
     },
     {
         "ID":50929,
-        "Name":null
+        "Name":"에어로"
     },
     {
         "ID":50930,
-        "Name":null
+        "Name":"스톤"
     },
     {
         "ID":50931,
-        "Name":null
+        "Name":"워터"
     },
     {
         "ID":50932,
-        "Name":null
+        "Name":"돌진 연속베기"
     },
     {
         "ID":50933,
-        "Name":null
+        "Name":"돌진 연속베기"
     },
     {
         "ID":50934,
@@ -203757,7 +203757,7 @@
     },
     {
         "ID":50940,
-        "Name":null
+        "Name":"괴이한 광선"
     },
     {
         "ID":50941,
@@ -203769,23 +203769,23 @@
     },
     {
         "ID":50943,
-        "Name":null
+        "Name":"폼폼 메테오 레인"
     },
     {
         "ID":50944,
-        "Name":null
+        "Name":"폼폼 메테오 레인"
     },
     {
         "ID":50945,
-        "Name":null
+        "Name":"폼폼 메테오 레인"
     },
     {
         "ID":50946,
-        "Name":null
+        "Name":"폼폼 메테오 레인"
     },
     {
         "ID":50947,
-        "Name":null
+        "Name":"폼폼 메테오 레인"
     },
     {
         "ID":50948,
@@ -204961,11 +204961,11 @@
     },
     {
         "ID":51241,
-        "Name":null
+        "Name":"파이어"
     },
     {
         "ID":51242,
-        "Name":null
+        "Name":"선더"
     },
     {
         "ID":51243,
